@@ -1,15 +1,14 @@
-| Title                       | Check analysis toolset         |
+| Title                       | Vérifier les outils d'analyse         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1012            |
-| **Description**             | Make sure your toolset for analysis and management is updated and fully operational. Make sure that all the required permissions have been granted as well   |
-| **Author**                  | your name/nickname/twitter        |
-| **Creation Date**           | DD.MM.YYYY |
-| **Category**                | General      |
+| **Description**             | Assurez-vous que votre ensemble d'outils d'analyse et de gestion est mis à jour et pleinement opérationnel. Assurez-vous que toutes les autorisations requises ont également été accordées   |
+| **Author**                  |Crypt-0n        |
+| **Creation Date**           | 11.06.2020 |
+| **Category**                | Général      |
 | **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
 | **Automation** |<ul><li>thehive/phantom/demisto/etc</li></ul>|
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 
 ### Workflow
 
-Description of the workflow for the Response Action in markdown format.  
-Here newlines will be saved.  
+A compléter.  
