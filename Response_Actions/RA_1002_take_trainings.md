@@ -11,9 +11,9 @@
 
 > We do not rise to the level of our expectations. We fall to the level of our training.  
 
-Voici quelques cours de formation pertinents qui vous aideront dans les activités de réponse aux incidents:
+Voici quelques supports de formation pertinents qui vous aideront dans les activités de réponse aux incidents:
 
-1. [Investigation Theory](https://chrissanders.org/training/investigationtheory/) par Chris Sanders.Nous vous recommandons de mettre en place cette formation obligatoire pour chaque membre de votre équipe de réponse aux incidents
+1. [Investigation Theory](https://chrissanders.org/training/investigationtheory/) par Chris Sanders. Nous vous recommandons de mettre en place cette formation obligatoire pour chaque membre de votre équipe de réponse aux incidents
 2. [Offensive Security](https://www.offensive-security.com/courses-and-certifications/) trainings. Nous recommandons de commencer avec  [PWK](https://www.offensive-security.com/pwk-oscp/)  
 3. Formations [SANS Digital Forensics & Incident Response](https://digital-forensics.sans.org/training/courses)  
 
