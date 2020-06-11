@@ -1,15 +1,15 @@
-| Title                       | Access internal network flow logs         |
+| Title                       | Accéder aux journaux de flux du réseau interne        |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1102            |
-| **Description**             | Make sure you have access to internal communication Network Flow logs   |
-| **Author**                  | your name/nickname/twitter        |
-| **Creation Date**           | DD.MM.YYYY |
-| **Category**                | Network      |
+| **Description**             | Assurez-vous d'avoir accès aux journaux de flux réseau de communication interne  |
+| **Author**                  | Crypt-0n        |
+| **Creation Date**           | 11.06.2020 |
+| **Category**                | Réseau      |
 | **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 | **Requirements** |<ul><li>DN_zeek_conn_log</li></ul>|
 
 ### Workflow
 
-Description of the workflow for the Response Action in markdown format.  
-Here newlines will be saved.  
+Description du workflow avec les markdowdn ci dessous
+Commencez ici  
