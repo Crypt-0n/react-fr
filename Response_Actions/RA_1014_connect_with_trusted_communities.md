@@ -1,14 +1,15 @@
-| Title                       | Connect with trusted communities         |
+| Title                       | Intégrer des communautés de confiance         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1014            |
-| **Description**             | Connect with trusted communities for information exchange   |
-| **Author**                  | Andreas Hunkeler (@Karneades)        |
+| **Description**             | Intégrer des communautés de confiance pour échanger de l'information   |
+| **Author**                  | Crypt-0n       |
 | **Creation Date**           | 14.05.2020 |
 | **Category**                | General      |
 | **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
 | **References** |<ul><li>[https://www.misp-project.org/](https://www.misp-project.org/)</li></ul>|
-| **Requirements** |<ul><li>MISP connection to other teams or working on the MISP instance of another institution</li><li>Mailing list</li><li>Slack channel</li></ul>|
+| **Requirements** |<ul><li>Connection MISP interne avec d'autres équipes ou d'autre instituions</li><li>Mailing list</li><li>Plateforme collaborative(Slack...)</li></ul>|
 
 ### Workflow
 
-Contact other companies or information providers for getting on a ML or get connected to other MISP instances.
+Contactez d'autres sociétés ou fournisseurs d'informations pour obtenir une Mailing List ou connectez-vous à d'autres instances MISP.
+
