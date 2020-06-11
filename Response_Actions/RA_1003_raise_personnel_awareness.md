@@ -1,14 +1,15 @@
-| Title                       | Raise personnel awareness         |
+| Title                       | Sensibiliser le personnel        |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1003            |
-| **Description**             | Raise personnel awareness regarding phishing, ransomware, social engineering,  and other attacks that involve user interaction   |
-| **Author**                  | @atc_project, ported from @MITREattack        |
-| **Creation Date**           | 06.05.2020 |
-| **Category**                | General      |
+| **Description**             |Sensibiliser le personnel au phishing, aux ransomwares, à l'ingénierie sociale et aux autres attaques impliquant une interaction utilisateur  |
+| **Author**                  | Crypt-0n, source @MITREattack        |
+| **Creation Date**           | 11.06.2020 |
+| **Category**                | Général      |
 | **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
 | **References** |<ul><li>[https://attack.mitre.org/mitigations/M1017/](https://attack.mitre.org/mitigations/M1017/)</li></ul>|
 
 ### Workflow
 
-Train users to to be aware of access or manipulation attempts by an adversary to reduce the risk of 
-successful spearphishing, social engineering, and other techniques that involve user interaction.
+Entraînez les utilisateurs à être conscients des tentatives d'accès ou de manipulation d'un adversaire pour réduire le risque de réussite de hameçonnage, de l'ingénierie sociale et d'autres techniques qui impliquent une interaction de l'utilisateur.
+
+.
