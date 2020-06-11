@@ -1,19 +1,18 @@
-| Title                       | Access external network flow logs         |
+| Title                       | Accéder aux journaux des flux réseaux externes   |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1101            |
-| **Description**             | Make sure you have access to external communication Network Flow logs   |
-| **Author**                  | @atc_project        |
-| **Creation Date**           | 06.05.2020 |
-| **Category**                | Network      |
+| **Description**             | Assurez-vous d'avoir accès aux journaux de flux réseau de communication externes   |
+| **Author**                  | Crypt-0n       |
+| **Creation Date**           | 11.06.2020 |
+| **Category**                | Réseau      |
 | **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
-| **References** |<ul><li>[https://en.wikipedia.org/wiki/NetFlow](https://en.wikipedia.org/wiki/NetFlow)</li><li>[https://www.plixer.com/blog/how-accurate-is-sampled-netflow/](https://www.plixer.com/blog/how-accurate-is-sampled-netflow/)</li></ul>|
+| **References** |<ul><li>[https://fr.wikipedia.org/wiki/NetFlow](https://fr.wikipedia.org/wiki/NetFlow)</li><li>[https://www.plixer.com/blog/how-accurate-is-sampled-netflow/](https://www.plixer.com/blog/how-accurate-is-sampled-netflow/)</li></ul>|
 | **Requirements** |<ul><li>MS_border_firewall</li><li>MS_border_ngfw</li><li>DN_zeek_conn_log</li></ul>|
 
 ### Workflow
 
-Make sure that there is a collection of Network Flow logs for external communication (from corporate assets to the Internet) configured.  
-If there is no option to configure it on a network device, you can install a special software on each endpoint and collect it from them.  
+Assurez-vous qu'il existe une collection de journaux de flux réseau pour la communication externe (des actifs de l'entreprise à Internet) configurée.
+S'il n'y a pas d'option pour le configurer sur un périphérique réseau, vous pouvez installer un logiciel spécial sur chaque point de terminaison et le collecter à partir d'eux. 
 
 Warning:  
-
-- There is a feature called ["NetFlow Sampling"](https://www.plixer.com/blog/how-accurate-is-sampled-netflow/), that eliminates the value of the Network Flow logs for some of the tasks, such as "check if some host communicated to an external IP". Make sure it's disabled or you have an alternative way to collect Network Flow logs  
+Il existe une fonctionnalité appelée ["NetFlow Sampling"](https://www.plixer.com/blog/how-accurate-is-sampled-netflow/) , qui élimine la valeur des journaux de flux réseau pour certaines des tâches, telles que "vérifier si un hôte a communiqué avec une adresse IP externe". Assurez-vous qu'il est désactivé ou que vous avez un autre moyen de collecter les journaux de flux réseau
