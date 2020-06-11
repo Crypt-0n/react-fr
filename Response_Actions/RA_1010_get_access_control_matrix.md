@@ -1,7 +1,7 @@
-| Title                       | Get access control matrix         |
+| Title                       | Avoir à disposition une matrice de contrôle d'accès         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1010            |
-| **Description**             | Get Access Control Matrix. Usually, its managed by the Network security team. It will help you to identify adversary opportunities, such as laterally movement and so on   |
+| **Description**             | Avoir à disposition une matrice de contrôle d'accès. abituellement, elle est gérée par l'équipe de sécurité réseau. Cela vous aidera à identifier les chemins possibles de l'adversaire, telles que le mouvement latéral, etc.   |
 | **Author**                  | your name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
 | **Category**                | General      |
@@ -11,5 +11,4 @@
 
 ### Workflow
 
-Description of the workflow for the Response Action in markdown format.  
-Here newlines will be saved.  
+A décrire
