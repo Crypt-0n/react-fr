@@ -1,13 +1,14 @@
-| Title                       | Make personnel report suspicious activity         |
+| Title                       | S'assurer que le personnel signale une activité suspecte       |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1004            |
-| **Description**             | Make sure that personnel will report suspicious activity i.e. suspicious emails,  links, files, activity on their computers, etc   |
-| **Author**                  | @atc_project        |
-| **Creation Date**           | 06.05.2020 |
-| **Category**                | General      |
+| **Description**             | Assurez-vous que le personnel signalera une activité suspecte, c'est-à-dire des e-mails suspects, des liens, des fichiers, des activités sur leurs ordinateurs...   |
+| **Author**                  | Crypt-0n        |
+| **Creation Date**           | 11.06.2020 |
+| **Category**                | Général      |
 | **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
 
 ### Workflow
 
-Develop a simplified, company wide-known way to contact IR team in case of suspicious activity on the user system.  
-Make sure that the personnel is aware of it, can and will use it.  
+  
+Simplifier les moyens de contacter l'équipe de Reponse à Incident en cas d'activité suspecte sur le système utilisateur.
+Assurez-vous que le personnel en est conscient, qu'il peut et qu'il l'utilisera.
