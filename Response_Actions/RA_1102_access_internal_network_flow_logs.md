@@ -11,5 +11,5 @@
 
 ### Workflow
 
-Description du workflow avec les markdowdn ci dessous
+Description du workflow des actions avec les markdown correspondant ci-dessous
 Commencez ici  
