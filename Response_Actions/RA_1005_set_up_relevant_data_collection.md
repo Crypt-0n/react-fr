@@ -7,6 +7,9 @@
 | **Category**                | Général      |
 | **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
 | **Automation** |<ul><li>thehive/phantom/demisto/etc</li></ul>|
-
+| **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 
 ### Workflow
+
+A compléter  
+
