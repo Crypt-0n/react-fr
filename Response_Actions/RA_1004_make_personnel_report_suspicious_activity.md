@@ -1,7 +1,7 @@
 | Title                       | S'assurer que le personnel signale une activité suspecte       |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1004            |
-| **Description**             | Assurez-vous que le personnel signalera une activité suspecte, c'est-à-dire des e-mails suspects, des liens, des fichiers, des activités sur leurs ordinateurs...   |
+| **Description**             | Assurez-vous que le personnel signalera toute activité suspecte, c'est-à-dire des e-mails suspects, des liens, des fichiers, des activités sur leurs ordinateurs...   |
 | **Author**                  | Crypt-0n        |
 | **Creation Date**           | 11.06.2020 |
 | **Category**                | Général      |
