@@ -1,20 +1,20 @@
-| Title                       | Access external DNS logs         |
+| Title                       | Accéder aux journaux DNS externes         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1106            |
-| **Description**             | Make sure you have access to external communication DNS logs   |
-| **Author**                  | @atc_project        |
-| **Creation Date**           | 06.05.2020 |
-| **Category**                | Network      |
+| **Description**             | Assurez-vous d'avoir accès aux journaux DNS des communications externes   |
+| **Author**                  | Crypt-0n       |
+| **Creation Date**           | 11.06.2020 |
+| **Category**                | Réseau      |
 | **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
 | **References** |<ul><li>[https://github.com/gamelinux/passivedns](https://github.com/gamelinux/passivedns)</li><li>[https://drive.google.com/drive/u/0/folders/0B5BuM3k0_mF3LXpnYVUtU091Vjg](https://drive.google.com/drive/u/0/folders/0B5BuM3k0_mF3LXpnYVUtU091Vjg)</li></ul>|
 | **Requirements** |<ul><li>MS_dns_server</li><li>DN_zeek_dns_log</li></ul>|
 
 ### Workflow
 
-Make sure that there is a collection of DNS logs for external communication (from corporate assets to the Internet) configured.  
-If there is no option to configure it on a network device/DNS Server, you can install a special software on each endpoint and collect it from them.  
+Assurez-vous qu'il existe une collecte de journaux DNS pour la communication externe (des actifs de l'entreprise à Internet) configurée.
+S'il n'y a pas d'option pour le configurer sur un périphérique réseau / serveur DNS, vous pouvez installer un logiciel spécial sur chaque point de terminaison et le collecter à partir d'eux. 
 
 Warning:  
 
-- Make sure that there are both DNS query and answer logs collected. It's quite hard to configure such a collection on MS Windows DNS server and ISC BIND. Sometimes it much easier to use 3rd party solutions to fulfill this requirement.  
-- Make sure that DNS traffic to the external (public) DNS servers is blocked by the Border Firewall. This way, corporate DNS servers is the only place assets can resolve the domain names.  
+- Assurez-vous que des journaux de requêtes et de réponses DNS sont collectés. Il est assez difficile de configurer une telle collection sur le serveur DNS MS Windows et ISC BIND. Parfois, il est beaucoup plus facile d'utiliser des solutions tierces pour répondre à cette exigence.
+- Assurez-vous que le trafic DNS vers les serveurs DNS externes (publics) est bloqué par le pare-feu de Bordure. De cette façon, les serveurs DNS d'entreprise sont le seul endroit où les actifs peuvent résoudre les noms de domaine.
