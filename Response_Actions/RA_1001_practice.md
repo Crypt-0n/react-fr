@@ -2,7 +2,7 @@
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1001            |
 | **Description**             |S'exercer en environnement réel. Affiner les actions de réponse au sein de votre organisation   |
-| **Author**                  |Crypt-0n        |
+| **Author**                  |@atc_project - Traduit et Mise à jour par Crypt-0n        |
 | **Creation Date**           | 11.06.2020 |
 | **Category**                | Général      |
 | **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
