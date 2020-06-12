@@ -1,18 +1,18 @@
-| Title                       | Get ability to block external domain         |
+| Title                       | Avoir la possibilité de bloquer un domaine externe        |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1113            |
-| **Description**             | Make sure you have the ability to block an external domain name from being accessed by corporate assets   |
-| **Author**                  | @atc_project        |
+| **Description**             | Assurez-vous que vous avez la possibilité d'empêcher l'accès à un nom de domaine externe par les actifs de l'entreprise   |
+| **Author**                  | @atc_project -  Traduit et Mise à jour par Crypt-0n     |
 | **Creation Date**           | 06.05.2020 |
-| **Category**                | Network      |
+| **Category**                | Réseau      |
 | **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
 | **References** |<ul><li>[https://en.wikipedia.org/wiki/DNS_sinkhole](https://en.wikipedia.org/wiki/DNS_sinkhole)</li></ul>|
 | **Requirements** |<ul><li>MS_border_proxy</li><li>MS_border_ips</li><li>MS_border_ngfw</li><li>MS_dns_server</li></ul>|
 
 ### Workflow
 
-Make sure you have the ability to create a policy rule or a specific configuration in one of the listed Mitigation Systems that will you to block an external domain name from being accessed by corporate assets.  
+Assurez-vous que vous avez la possibilité de créer une règle de stratégie ou une configuration spécifique dans l'un des systèmes d'atténuation répertoriés qui vous empêchera l'accès à un nom de domaine externe par les actifs de l'entreprise.
 
 Warning:  
 
-- Make sure that using the listed systems (1 or multiple) you can control access to the internet of all assets in the infrastructure. In some cases, you will need a guaranteed way to block an external domain name from being accessed by corporate assets completely. If some of the assets are not under the management of the listed Mitigation Systems, (so they can access the internet bypassing these systems), you will not be able to fully achieve the final objective of the Response Action.  
+- Assurez-vous qu'en utilisant les systèmes répertoriés (1 ou plusieurs), vous pouvez contrôler l'accès à Internet de tous les actifs de l'infrastructure. Dans certains cas, vous aurez besoin d'un moyen garanti d'empêcher complètement l'accès à un nom de domaine externe par les actifs de l'entreprise. Si certains actifs ne sont pas sous la gestion des systèmes d'atténuation répertoriés (afin qu'ils puissent accéder à Internet en contournant ces systèmes), vous ne pourrez pas atteindre pleinement l'objectif final de la mesure.
