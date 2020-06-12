@@ -1,9 +1,9 @@
-| Title                       | Access DHCP logs         |
+| Title                       | Accés aux journaux DHCP         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1108            |
-| **Description**             | Make sure you have access to DHCP logs   |
-| **Author**                  | your name/nickname/twitter        |
-| **Creation Date**           | DD.MM.YYYY |
+| **Description**             | Assurez-vous d'avoir accès aux journaux DHCP   |
+| **Author**                  | Traduit et Mise à jour par Crypt-0n        |
+| **Creation Date**           | 12.06.2020 |
 | **Category**                | Network      |
 | **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
 | **Automation** |<ul><li>thehive/phantom/demisto/etc</li></ul>|
@@ -11,5 +11,5 @@
 
 ### Workflow
 
-Description of the workflow for the Response Action in markdown format.  
-Here newlines will be saved.  
+Description du workflow des mesures à prendre avec les markdown correspondant ci-dessous.  
+Commencez ici.
