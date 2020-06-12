@@ -2,7 +2,7 @@
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1104            |
 | **Description**             | Assurez-vous d'avoir accès aux journaux HTTP de communication externe   |
-| **Author**                  | Crypt-0n        |
+| **Author**                  | @atc_project - Traduit et Mise à jour par Crypt-0n       |
 | **Creation Date**           | 11.06.2020 |
 | **Category**                | Réseau      |
 | **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
