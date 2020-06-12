@@ -1,7 +1,7 @@
 | Title                       | Avoir à disposition une matrice de contrôle d'accès         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1010            |
-| **Description**             | Avoir à disposition une matrice de contrôle d'accès. abituellement, elle est gérée par l'équipe de sécurité réseau. Cela vous aidera à identifier les chemins possibles de l'adversaire, telles que le mouvement latéral, etc.   |
+| **Description**             | Avoir à disposition une matrice de contrôle d'accès. habituellement, elle est gérée par l'équipe de sécurité réseau. Cela vous aidera à identifier les chemins possibles de l'adversaire, telles que le mouvement latéral, etc.   |
 | **Author**                  | Traduit et Mise à jour par Crypt-0n        |
 | **Creation Date**           | 12.06.2020 |
 | **Category**                | Général      |
