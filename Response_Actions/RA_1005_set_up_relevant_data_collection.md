@@ -2,7 +2,7 @@
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1005            |
 | **Description**             | Habituellement, la collecte des données est gérée par les équipes de gestion des journaux / surveillance de la sécurité / détection des menaces. Vous devez leur fournir une liste des données pertinentes à monitorer pour le processus de Réponse à Incident. La plupart du temps, des données comme les journaux DNS et DHCP ne sont pas collectées, car leur valeur de détection est relativement faible. Vous pouvez vous référer aux actions de réponse existantes (étape de préparation) pour développer la liste  |
-| **Author**                  | Crypt-0n        |
+| **Author**                  | Traduit et Mise à jour par Crypt-0n       |
 | **Creation Date**           | 11.06.2020 |
 | **Category**                | Général      |
 | **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
@@ -11,5 +11,6 @@
 
 ### Workflow
 
-A compléter  
+Description du workflow des mesures à prendre avec les markdown correspondant ci-dessous.
+Commencez ici.
 
