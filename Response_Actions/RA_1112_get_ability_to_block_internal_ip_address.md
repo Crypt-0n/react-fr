@@ -1,8 +1,7 @@
 | Title                       | Avoir la possibilité de bloquer l'adresse IP interne       |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1112            |
-| **Description**             | Assurez-vous que vous pouvez bloquer l'accès à une adresse IP interne par les actifs de l'entreprise
-   |
+| **Description**             | Assurez-vous que vous pouvez bloquer l'accès à une adresse IP interne par les actifs de l'entreprise   |
 | **Author**                  | Traduit et Mise à jour par Crypt-0n       |
 | **Creation Date**           | 12.06.2020 |
 | **Category**                | Réseau      |
