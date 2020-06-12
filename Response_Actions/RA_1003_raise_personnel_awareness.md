@@ -2,7 +2,7 @@
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1003            |
 | **Description**             |Sensibiliser le personnel au phishing, aux ransomwares, à l'ingénierie sociale et aux autres attaques impliquant une interaction utilisateur  |
-| **Author**                  | Crypt-0n, source @MITREattack        |
+| **Author**                  | @atc_project, ported from @MITREattack - Traduit et Mise à jour par Crypt-0n       |
 | **Creation Date**           | 11.06.2020 |
 | **Category**                | Général      |
 | **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
