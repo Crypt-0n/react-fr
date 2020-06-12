@@ -1,4 +1,6 @@
-# react-fr
+# RE&CT-fr
+
+**Traduction en cours...**
 
 ![](images/logo_v2.png)
 
