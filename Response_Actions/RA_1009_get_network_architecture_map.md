@@ -4,7 +4,7 @@
 | **Description**             | Avoir à dispostion la cartographie réseau. Habituellement, elle est géréé par l'équipe de sécurité réseau. Elle vous aidera à choisir la stratégie de confinement, comme isoler des segments de réseau spécifiques   |
 | **Author**                  | Traduit et Mise à jour par Crypt-0n        |
 | **Creation Date**           | 11.06.2020 |
-| **Category**                | General      |
+| **Category**                | Général      |
 | **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
 | **Automation** |<ul><li>thehive/phantom/demisto/etc</li></ul>|
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
