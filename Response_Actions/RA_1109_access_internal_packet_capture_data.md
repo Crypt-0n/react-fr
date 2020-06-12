@@ -1,15 +1,15 @@
-| Title                       | Access internal packet capture data         |
+| Title                       | Accés aux données de capture de paquets internes      |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1109            |
-| **Description**             | Make sure you have access to internal communication Packet Capture data   |
-| **Author**                  | your name/nickname/twitter        |
-| **Creation Date**           | DD.MM.YYYY |
-| **Category**                | Network      |
+| **Description**             |Assurez-vous que vous avez accès aux données de capture de paquets de communication interne   |
+| **Author**                  | Traduit et Mise à jour par Crypt-0n       |
+| **Creation Date**           | 12.06.2020 |
+| **Category**                | Réseau      |
 | **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 | **Requirements** |<ul><li>DN_PCAP</li></ul>|
 
 ### Workflow
 
-Description of the workflow for the Response Action in markdown format.  
-Here newlines will be saved.  
+Description du workflow des mesures à prendre avec les markdown correspondant ci-dessous.  
+Commencez ici.
