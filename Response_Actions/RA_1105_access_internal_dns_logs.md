@@ -2,7 +2,7 @@
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1105            |
 | **Description**             | Assurez-vous d'avoir accès aux journaux DNS de communication interne   |
-| **Author**                  | Crypt-0n        |
+| **Author**                  | Traduit et Mise à jour par Crypt-0n        |
 | **Creation Date**           | 12.06.2020 |
 | **Category**                | Réseau      |
 | **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
