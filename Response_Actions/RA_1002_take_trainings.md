@@ -2,7 +2,7 @@
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1002            |
 | **Description**             | Se former pour augmenter ses connaissances en réponse à incident|
-| **Author**                  | Crypt-0n       |
+| **Author**                  | @atc_project Traduit et Mise à jour par Crypt-0n       |
 | **Creation Date**           | 11.06.2020 |
 | **Category**                | General      |
 | **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
