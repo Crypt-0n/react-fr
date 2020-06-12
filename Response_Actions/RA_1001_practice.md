@@ -1,7 +1,7 @@
 | Title                       | S'exercer         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1001            |
-| **Description**             |S'exercer en environnement réel. SAffiner les actions de réponse au sein de votre organisation   |
+| **Description**             |S'exercer en environnement réel. Affiner les actions de réponse au sein de votre organisation   |
 | **Author**                  |Crypt-0n        |
 | **Creation Date**           | 11.06.2020 |
 | **Category**                | Général      |
