@@ -2,7 +2,7 @@
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1014            |
 | **Description**             | Intégrer des communautés de confiance pour échanger de l'information   |
-| **Author**                  | Crypt-0n       |
+| **Author**                  | Andreas Hunkeler (@Karneades) - Traduit et Mise à jour par Crypt-0n       |
 | **Creation Date**           | 14.05.2020 |
 | **Category**                | General      |
 | **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
