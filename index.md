@@ -1,29 +1,29 @@
-🇷🇺 [Русская версия](index_RU.md)  
+# RE&CT-fr
 
-# RE&CT
+**Traduction en cours...**
 
 ![](images/logo_v2.png)
 
-The RE&CT Framework is designed for accumulating, describing and categorizing actionable Incident Response techniques.  
+Le Framework RE&CT est conçu pour accumuler, décrire et classer les techniques de réponse aux incidents.  
 
-RE&CT's philosophy is based on the [MITRE's ATT&CK](https://attack.mitre.org/) framework.  
-The columns represent [Response Stages](responsestages.md).  
-The cells repsresent [Response Actions](#response-action).  
+La philosophie de RE&CT est basée sur le framework du [MITRE ATT&CK](https://attack.mitre.org/).  
+Les colonnes représentent les [Étapes de réponse](responsestages.md).  
+Les cellules représentent les [Actions de réponse](#response-action).  
 
-The main use cases are:
+Les principaux cas d'utilisation sont :
 
-- Prioritization of Incident Response capabilities development, including skills development, technical measures acquisition/deployment, internal procedures development, etc
-- Gap analysis — determine "coverage" of existing Incident Response capabilities
+- Hiérarchisation du développement des capacités de réponse aux incidents, y compris le développement des compétences, l'acquisition / le déploiement de mesures techniques, le développement de procédures internes, etc.
+- Analyse des lacunes - déterminer la «couverture» des capacités de réponse aux incidents existantes
 
-The main resources:
+Les principales ressources :
 
-- [RE&CT Navigator](https://atc-project.github.io/react-navigator/) (modified [ATT&CK Navigator](https://github.com/mitre-attack/attack-navigator)) for visualization and observing the big picture  
-- Automatically generated RE&CT [website](https://atc-project.github.io/atc-react/) is the best place for getting details about existing analytics  
-- Automatically generated [Atlassian Confluence knowledge base](https://atomicthreatcoverage.atlassian.net/wiki/spaces/REACT/pages/755469668/Response+Stages) - exporting functionality demonstration  
+- [RE&CT Navigator](https://atc-project.github.io/react-navigator/) (modified [ATT&CK Navigator](https://github.com/mitre-attack/attack-navigator)) pour la visualisation  
+- Le [site](https://atc-project.github.io/atc-react/) est le meilleur endroit pour obtenir des détails sur les analyses existantes  
+- La [Base de connaissances Atlassian Confluence](https://atomicthreatcoverage.atlassian.net/wiki/spaces/REACT/pages/755469668/Response+Stages) - exportation d'une démonstration de fonctionnalité 
 
-| Preparation                                                   | Identification                                     | Containment                                    | Eradication                                 | Recovery                                | Lessons Learned                        |
+| Preparation                                                   | Identification                                     | Contenir                                    | Éradication                                    | Recouvrement                            | Retour d'expérience                    |
 |:-------------------------------------------------------------:|:--------------------------------------------------:|:----------------------------------------------:|:-------------------------------------------:|:---------------------------------------:|:--------------------------------------:|
-| [**Practice**]                                                | [List victims of security alert*]                  | [Patch vulnerability*]                         | [**Report incident to external companies**] | [Reinstall host from golden image*]     | [**Develop incident report**]          |
+| [**Préparation**]                                                | [List victims of security alert*]                  | [Patch vulnerability*]                         | [**Report incident to external companies**] | [Reinstall host from golden image*]  | [**Develop incident report**]          |
 | [**Take trainings**]                                          | [List host vulnerabilities*]                       | [**Block external IP address**]                | [Remove rogue network device*]              | [Restore data from backup*]             | [**Conduct lessons learned exercise**] |
 | [**Raise personnel awareness**]                               | [**Put compromised accounts on monitoring**]       | [**Block internal IP address**]                | [**Delete email message**]                  | [**Unblock blocked IP**]                |                                        |
 | [**Make personnel report suspicious activity**]               | [List hosts communicated with internal domain*]    | [**Block external domain**]                    | [Remove file*]                              | [**Unblock blocked domain**]            |                                        |
