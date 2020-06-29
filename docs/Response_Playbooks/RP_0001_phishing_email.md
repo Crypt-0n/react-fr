@@ -1,7 +1,7 @@
 | Title             | Phishing email                                                                                                      |
 |:-----------------:|:-----------------------------------------------------------------------------------------------------------------|
 | **ID**            | RP0001            |
-| **Description**   | Response playbook for Phishing Email case   |
+| **Description**   | Playbook de réponse pour le cas du courrier électronique malveillant   |
 | **Author**        | @atc_project        |
 | **Creation Date** | 31.01.2019 |
 | **Severity**      | M      |
