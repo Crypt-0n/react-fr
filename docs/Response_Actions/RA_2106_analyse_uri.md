@@ -1,4 +1,4 @@
-| Title                       | Analyse uri         |
+| Title                       | Analyser l'uri         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2106            |
 | **Description**             | Analyse an URI   |

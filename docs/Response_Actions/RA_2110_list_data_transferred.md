@@ -1,4 +1,4 @@
-| Title                       | List data transferred         |
+| Title                       | Liste des données transférées         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2110            |
 | **Description**             | List the data that is being transferred at the moment or at a particular time in the past   |

@@ -1,4 +1,4 @@
-| Title                       | List hosts communicated with external URL         |
+| Title                       | Lister les hôtes qui ont communiqués avec une URL externe         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2115            |
 | **Description**             | List hosts communicated with an external URL   |

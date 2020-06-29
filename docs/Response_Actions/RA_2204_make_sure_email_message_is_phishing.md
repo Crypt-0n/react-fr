@@ -1,4 +1,4 @@
-| Title                       | Make sure email message is phishing         |
+| Title                       | Assurez-vous que le message électronique est du phishing         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2204            |
 | **Description**             | Make sure that an email message is a phishing attack   |

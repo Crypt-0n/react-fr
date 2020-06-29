@@ -1,4 +1,4 @@
-| Title                       | List hosts communicated with internal IP         |
+| Title                       | Liste des hôtes qui ont communiqués avec l'ip interne         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2102            |
 | **Description**             | List hosts communicated with an internal IP address   |

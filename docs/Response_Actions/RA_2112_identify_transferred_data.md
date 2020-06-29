@@ -1,4 +1,4 @@
-| Title                       | Identify transferred data         |
+| Title                       | Identifier les données transférées         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2112            |
 | **Description**             | Identify the data that is being transferred at the moment or at a particular time in the past (i.e. its content, value)   |

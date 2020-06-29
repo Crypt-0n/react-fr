@@ -1,4 +1,4 @@
-title: RA_2002_list_host_vulnerabilities
+title: RA_2002_répertorier_les_vulnérabilités_de_l'hôte
 id: RA2002
 description: >
   Get information about a specific host existing vulnerabilities, or about vulnerabilities it had at a particular time in the past

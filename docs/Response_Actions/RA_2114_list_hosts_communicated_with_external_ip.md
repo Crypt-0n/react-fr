@@ -1,4 +1,4 @@
-| Title                       | List hosts communicated with external IP         |
+| Title                       | Lister les hôtes qui ont communiqués avec une IP externe         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2114            |
 | **Description**             | List hosts communicated with an external IP address   |

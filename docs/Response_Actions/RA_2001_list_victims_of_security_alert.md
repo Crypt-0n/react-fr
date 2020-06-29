@@ -1,4 +1,4 @@
-| Title                       | List victims of security alert         |
+| Title                       | Répertorier les victimes de l'alerte de sécurité         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2001            |
 | **Description**             | List victims of a security alert   |

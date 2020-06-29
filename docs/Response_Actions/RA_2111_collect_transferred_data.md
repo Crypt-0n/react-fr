@@ -1,4 +1,4 @@
-| Title                       | Collect transferred data         |
+| Title                       | Collecter les données transférées         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2111            |
 | **Description**             | Collect the data that is being transferred at the moment or at a particular time in the past   |

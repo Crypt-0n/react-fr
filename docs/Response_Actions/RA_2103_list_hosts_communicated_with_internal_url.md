@@ -1,4 +1,4 @@
-| Title                       | List hosts communicated with internal URL         |
+| Title                       | Liste des hôtes qui ont communiqués avec une URL interne         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2103            |
 | **Description**             | List hosts communicated with an internal URL   |

@@ -1,4 +1,4 @@
-| Title                       | List email message receivers         |
+| Title                       | Lister les destinataires d'un e-mails         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2203            |
 | **Description**             | List receivers of a particular email message   |

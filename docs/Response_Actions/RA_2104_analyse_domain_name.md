@@ -1,4 +1,4 @@
-| Title                       | Analyse domain name         |
+| Title                       | Analyser le nom de domaine         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2104            |
 | **Description**             | Analyse a domain name   |

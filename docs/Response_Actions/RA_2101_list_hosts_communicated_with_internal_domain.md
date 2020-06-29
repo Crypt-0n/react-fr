@@ -1,4 +1,4 @@
-| Title                       | List hosts communicated with internal domain         |
+| Title                       | Liste des hôtes qui ont communiqués avec le domaine interne         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2101            |
 | **Description**             | List hosts communicated with an internal domain   |

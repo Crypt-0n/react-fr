@@ -1,4 +1,4 @@
-| Title                       | Put compromised accounts on monitoring         |
+| Title                       | Mettre des comptes compromis sous surveillance         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2003            |
 | **Description**             | Put (potentially) compromised accounts on monitoring   |

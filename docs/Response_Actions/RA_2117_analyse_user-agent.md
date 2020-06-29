@@ -1,4 +1,4 @@
-| Title                       | Analyse user-agent         |
+| Title                       | Analyser un user-agent         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2117            |
 | **Description**             | Analyse an User-Agent request header   |

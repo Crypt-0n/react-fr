@@ -1,4 +1,4 @@
-| Title                       | List hosts communicated with external domain         |
+| Title                       | Lister les hôtes qui ont communiqués avec un domaine externe         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2113            |
 | **Description**             | List hosts communicated with an external domain   |

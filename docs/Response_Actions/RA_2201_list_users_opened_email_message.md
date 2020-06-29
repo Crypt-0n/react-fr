@@ -1,4 +1,4 @@
-| Title                       | List users opened email message         |
+| Title                       | Lister les utilisateurs qui ont ouverts un e-mail         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2201            |
 | **Description**             | List users that have opened am email message   |
