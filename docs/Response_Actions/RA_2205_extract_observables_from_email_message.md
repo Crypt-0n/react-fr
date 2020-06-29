@@ -1,4 +1,4 @@
-| Title                       | Extract observables from email message         |
+| Title                       | Extraire les observables du message électronique         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2205            |
 | **Description**             | Extract observables from an email message   |

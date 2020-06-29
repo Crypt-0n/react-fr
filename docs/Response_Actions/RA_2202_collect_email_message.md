@@ -1,4 +1,4 @@
-| Title                       | Collecter un e-mail         |
+| Title                       | Collecter l'e-mail         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2202            |
 | **Description**             | Collect an email message   |
