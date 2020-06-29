@@ -1,0 +1,32 @@
+# Project supplied default configuration.  Add a new configuration file 'config.yml' where you can overwrite any settings depicted below.
+# config.yml is not tracked by the version management system, while config.default.yml is.
+#confluence_space_name: "REACT" # SPACE KEY. GO TO: SPACE TOOLS -> Overview -> Space Details -> Key
+#confluence_space_home_page_name: 'REACT Home' # SPACE HOME. GO TO: SPACE TOOLS -> Overview -> Space Details -> Home page
+#confluence_name_of_root_directory: 'REACT'
+#confluence_rest_api_url: 'https://atomicthreatcoverage.atlassian.net/wiki/rest/api/'
+# to get sample viewpage url go to 'Page Information' for any page from your confluence
+# you will be redirected to sth like https://atomicthreatcoverage.atlassian.net/wiki/pages/viewinfo.action?pageId=115606439
+# change viewinfo to viewpage and delete number from the end
+# you should get sth like https://atomicthreatcoverage.atlassian.net/wiki/pages/viewpage.action?pageId=
+#confluence_viewpage_url: 'https://atomicthreatcoverage.atlassian.net/wiki/pages/viewpage.action?pageId='
+md_name_of_root_directory: 'docs'
+exported_analytics_directory: 'docs'
+response_playbooks_dir: 'response_playbooks'
+response_actions_dir: 'response_actions'
+response_stages_dir: 'response_stages'
+thehive_templates_dir: 'docs/thehive_templates'
+react_web_kb_base_url: 'https://crypt-0n.github.io/react-fr/'
+rs_summary_dir: 'docs'
+# 
+# Mappings part
+#
+# RE&CT
+remote_react_json_url: 'https://raw.githubusercontent.com//atc-project/atc-react/master/docs/react.json'
+local_react_json_url: 'docs/react.json'
+react_mapping_url: 'scripts/react_mapping.py'
+# ATT&CK
+attack_json_url: 'https://raw.githubusercontent.com/mitre/cti/master/enterprise-attack/enterprise-attack.json'
+attack_mapping_url: 'scripts/attack_mapping.py'
+# AMITT
+amitt_json_url: 'https://raw.githubusercontent.com/cogsec-collaborative/amitt_cti/master/amitt/amitt-attack.json'
+amitt_mapping_url: 'scripts/amitt_mapping.py'
