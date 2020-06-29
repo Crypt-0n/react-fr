@@ -1,4 +1,4 @@
-| Title                       | Unblock blocked domain         |
+| Title                       | Débloquer le domaine bloqué         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA5102            |
 | **Description**             | Unblock a blocked domain name   |

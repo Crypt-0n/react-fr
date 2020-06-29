@@ -1,4 +1,4 @@
-| Title                       | List files downloaded         |
+| Title                       | Lister les fichiers téléchargés         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2304            |
 | **Description**             | List files that have been downloaded at a particular time in the past   |

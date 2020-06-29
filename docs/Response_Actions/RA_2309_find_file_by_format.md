@@ -1,4 +1,4 @@
-| Title                       | Find file by format         |
+| Title                       | Rechercher un fichier par son format         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2309            |
 | **Description**             | Find a file by its format   |

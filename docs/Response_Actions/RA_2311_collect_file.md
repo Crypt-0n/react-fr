@@ -1,4 +1,4 @@
-| Title                       | Collect file         |
+| Title                       | Collecter le fichier         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2311            |
 | **Description**             | Collect a specific file from a (remote) host or a system   |

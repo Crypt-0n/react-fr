@@ -1,4 +1,4 @@
-| Title                       | Unblock domain on email         |
+| Title                       | Débloquer le domaine de l'e-mail         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA5201            |
 | **Description**             | Unblock a domain on email   |

@@ -1,4 +1,4 @@
-| Title                       | List files deleted         |
+| Title                       | Lister les fichiers supprimés         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2303            |
 | **Description**             | List files that have been deleted at a particular time in the past   |

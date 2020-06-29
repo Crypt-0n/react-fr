@@ -1,4 +1,4 @@
-| Title                       | Remove rogue network device         |
+| Title                       | Supprimer le périphérique réseau non autorisé         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA4101            |
 | **Description**             | Remove a rogue network device   |

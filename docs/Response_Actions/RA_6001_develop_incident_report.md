@@ -1,4 +1,4 @@
-| Title                       | Develop incident report         |
+| Title                       | Élaborer un rapport d'incident         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA6001            |
 | **Description**             | Develop the incident report   |

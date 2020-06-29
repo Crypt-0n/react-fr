@@ -1,4 +1,4 @@
-| Title                       | Unblock sender on email         |
+| Title                       | Débloquer l'expéditeur de l'e-mail         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA5202            |
 | **Description**             | Unblock a sender on email   |

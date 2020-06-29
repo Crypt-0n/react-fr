@@ -1,4 +1,4 @@
-| Title                       | Block domain on email         |
+| Title                       | Bloquer le domaine de l'e-mail         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA3201            |
 | **Description**             | Block a domain name on an Email server   |

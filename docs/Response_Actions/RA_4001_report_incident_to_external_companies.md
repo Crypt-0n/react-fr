@@ -1,4 +1,4 @@
-| Title                       | Report incident to external companies         |
+| Title                       | Signaler l'incident aux sociétés externes         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA4001            |
 | **Description**             | Report incident to external companies   |

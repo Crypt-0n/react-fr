@@ -1,4 +1,4 @@
-| Title                       | Restore quarantined email message         |
+| Title                       | Restaurer un e-mail en quarantaine         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA5203            |
 | **Description**             | Restore a quarantined email message   |

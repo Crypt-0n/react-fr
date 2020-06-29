@@ -1,4 +1,4 @@
-| Title                       | Find file by hash         |
+| Title                       | Rechercher un fichier par son hash         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2308            |
 | **Description**             | Find a file by its hash   |

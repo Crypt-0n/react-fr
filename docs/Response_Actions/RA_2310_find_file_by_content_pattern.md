@@ -1,4 +1,4 @@
-| Title                       | Find file by content pattern         |
+| Title                       | Rechercher un fichier par modèle de contenu         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2310            |
 | **Description**             | Find a file by its content pattern (i.e. specific string, keyword, binary pattern etc)   |

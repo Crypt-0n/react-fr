@@ -1,4 +1,4 @@
-| Title                       | Unblock blocked URL         |
+| Title                       | Débloquer l'url bloquée         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA5103            |
 | **Description**             | Unblock a blocked URL   |

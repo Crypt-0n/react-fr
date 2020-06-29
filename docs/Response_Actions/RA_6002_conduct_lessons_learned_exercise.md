@@ -1,4 +1,4 @@
-| Title                       | Conduct lessons learned exercise         |
+| Title                       | Effectuer un exercice sur les leçons apprises         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA6002            |
 | **Description**             | Conduct Lessons Learned exercise   |

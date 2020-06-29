@@ -1,4 +1,4 @@
-| Title                       | Block external URL         |
+| Title                       | Bloquer l'url externe         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA3105            |
 | **Description**             | Block an external URL from being accessed by corporate assets   |

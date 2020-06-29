@@ -1,4 +1,4 @@
-| Title                       | Analyse macos macho         |
+| Title                       | Analyser un fichier Mach-o de macos         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2314            |
 | **Description**             | Analise macOS Mach-O   |

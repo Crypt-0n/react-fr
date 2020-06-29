@@ -1,4 +1,4 @@
-| Title                       | Unblock blocked IP         |
+| Title                       | Débloquer l'ip bloquée         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA5101            |
 | **Description**             | Unblock a blocked IP address   |

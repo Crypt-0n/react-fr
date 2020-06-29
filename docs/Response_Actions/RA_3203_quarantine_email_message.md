@@ -1,4 +1,4 @@
-| Title                       | Quarantine email message         |
+| Title                       | Mettre l'e-mail en quarantaine         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA3203            |
 | **Description**             | Quarantine an email message   |

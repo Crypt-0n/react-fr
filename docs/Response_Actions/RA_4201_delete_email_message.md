@@ -1,4 +1,4 @@
-| Title                       | Delete email message         |
+| Title                       | Supprimer l'e-mail         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA4201            |
 | **Description**             | Delete an email message from an Email Server and users' email boxes   |
