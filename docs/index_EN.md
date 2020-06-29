@@ -18,7 +18,7 @@ The main use cases are:
 The main resources:
 
 - [RE&CT Navigator](https://atc-project.github.io/react-navigator/) (modified [ATT&CK Navigator](https://github.com/mitre-attack/attack-navigator)) for visualization and observing the big picture  
-- Automatically generated RE&CT [website](https://crypt-0n.github.io/react-fr/) is the best place for getting details about existing analytics  
+- Automatically generated RE&CT [website](https://atc-project.github.io/atc-react/) is the best place for getting details about existing analytics  
 - Automatically generated [Atlassian Confluence knowledge base](https://atomicthreatcoverage.atlassian.net/wiki/spaces/REACT/pages/755469668/Response+Stages) - exporting functionality demonstration  
 
 | Preparation                                                   | Identification                                     | Containment                                    | Eradication                                 | Recovery                                | Lessons Learned                        |
