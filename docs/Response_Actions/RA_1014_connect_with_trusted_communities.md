@@ -1,4 +1,4 @@
-| Title                       | Connect with trusted communities         |
+| Title                       | Connectez-vous avec des communautés de confiance         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1014            |
 | **Description**             | Connect with trusted communities for information exchange   |

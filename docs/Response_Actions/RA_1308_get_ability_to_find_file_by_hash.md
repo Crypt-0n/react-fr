@@ -1,4 +1,4 @@
-| Title                       | Get ability to find file by hash         |
+| Title                       | Obtenir la capacité de trouver un fichier par hash         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1308            |
 | **Description**             | Make sure you have the ability to find a file by its hash   |

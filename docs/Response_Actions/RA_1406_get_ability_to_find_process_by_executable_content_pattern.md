@@ -1,4 +1,4 @@
-| Title                       | Get ability to find process by executable content pattern         |
+| Title                       | Obtenir la capacité de trouver un processus exécutable par un modèle de contenu         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1406            |
 | **Description**             | Make sure you have the ability to find process executed at a particular time in the past by its executable content pattern (i.e. specific string, keyword, binary pattern etc)   |

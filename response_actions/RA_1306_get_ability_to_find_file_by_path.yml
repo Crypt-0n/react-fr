@@ -1,4 +1,4 @@
-title: RA_1306_get_ability_to_find_file_by_path
+title: RA_1306_obtenir_la_possibilité_de_trouver_un_fichier_par_chemin
 id: RA1306
 description: >
   Make sure you have the ability to find a file by its path (including its name)

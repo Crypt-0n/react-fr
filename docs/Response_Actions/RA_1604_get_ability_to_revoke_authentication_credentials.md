@@ -1,4 +1,4 @@
-| Title                       | Get ability to revoke authentication credentials         |
+| Title                       | Obtenir la possibilité de révoquer les informations d'authentification         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1604            |
 | **Description**             | Make sure you have the ability to revoke authentication credentials   |

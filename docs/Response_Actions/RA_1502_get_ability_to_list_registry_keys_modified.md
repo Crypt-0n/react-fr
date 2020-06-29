@@ -1,4 +1,4 @@
-| Title                       | Get ability to list registry keys modified         |
+| Title                       | Obtenir la possibilité de lister les clés de registre modifiées         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1502            |
 | **Description**             | Make sure you have the ability to list registry keys modified at a particular time in the past   |

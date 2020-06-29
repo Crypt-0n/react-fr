@@ -1,4 +1,4 @@
-| Title                       | Get ability to block port external communication         |
+| Title                       | Obtenir la capacité de bloquer la communication externe du port         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1117            |
 | **Description**             | Make sure you can block a network port for external communications   |

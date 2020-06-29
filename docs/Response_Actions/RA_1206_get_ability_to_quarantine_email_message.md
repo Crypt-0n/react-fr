@@ -1,4 +1,4 @@
-| Title                       | Get ability to quarantine email message         |
+| Title                       | Obtenir la possibilité de mettre un e-mail en quarantaine         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1206            |
 | **Description**             | Make sure you have the ability to quarantine an email message   |

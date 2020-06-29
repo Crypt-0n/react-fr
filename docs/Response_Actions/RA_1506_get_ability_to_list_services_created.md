@@ -1,4 +1,4 @@
-| Title                       | Get ability to list services created         |
+| Title                       | Obtenir la possibilité de répertorier les services créés         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1506            |
 | **Description**             | Make sure you have the ability to list services that have created at a particular time in the past   |

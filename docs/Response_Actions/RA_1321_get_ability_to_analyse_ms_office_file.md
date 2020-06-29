@@ -1,4 +1,4 @@
-| Title                       | Get ability to analyse MS office file         |
+| Title                       | Obtenir la capacité d'analyser les fichiers MS office         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1321            |
 | **Description**             | Make sure you have the ability to analyse a Microsoft Office file   |

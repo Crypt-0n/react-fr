@@ -1,4 +1,4 @@
-| Title                       | Get ability to quarantine file by hash         |
+| Title                       | Obtenir la possibilité de mettre le fichier en quarantaine par le hash         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1313            |
 | **Description**             | Make sure you have the ability to block a file from being accessed by its hash   |

@@ -1,4 +1,4 @@
-| Title                       | Get ability to remove user account         |
+| Title                       | Obtenir la possibilité de supprimer un compte utilisateur         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1605            |
 | **Description**             | Make sure you have the ability to remove a user account   |

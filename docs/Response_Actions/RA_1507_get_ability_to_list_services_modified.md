@@ -1,4 +1,4 @@
-| Title                       | Get ability to list services modified         |
+| Title                       | Obtenir la possibilité de lister les services modifiés         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1507            |
 | **Description**             | Make sure you have the ability to list services that have been modified at a particular time in the past   |

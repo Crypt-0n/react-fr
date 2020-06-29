@@ -1,4 +1,4 @@
-title: RA_1114_get_ability_to_block_internal_domain
+title: RA_1114_obtenir_la_possibilité_de_bloquer_le_domaine_interne
 id: RA1114
 description: >
   Make sure you can block an internal domain name from being accessed by corporate assets

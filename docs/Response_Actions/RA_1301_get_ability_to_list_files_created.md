@@ -1,4 +1,4 @@
-| Title                       | Get ability to list files created         |
+| Title                       | Obtenir la possibilité de répertorier les fichiers créés         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1301            |
 | **Description**             | Make sure you have the ability to list files that have been created at a particular time in the past   |

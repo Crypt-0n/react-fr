@@ -1,4 +1,4 @@
-| Title                       | Get ability to lock user account         |
+| Title                       | Obtenir la possibilité de verrouiller un compte utilisateur         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1602            |
 | **Description**             | Make sure you have the ability to lock user account from being used   |

@@ -1,4 +1,4 @@
-title: RA_1409_get_ability_to_block_process_by_executable_hash
+title: RA_1409_obtenir_la_capacité_de_bloquer_le_processus_par_le_hash_de_l'exécutable
 id: RA1409
 description: >
   Make sure you have the ability to block process by its executable hash

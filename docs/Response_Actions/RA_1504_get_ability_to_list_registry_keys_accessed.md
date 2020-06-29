@@ -1,4 +1,4 @@
-| Title                       | Get ability to list registry keys accessed         |
+| Title                       | Obtenir la liste des clés de registre accédées         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1504            |
 | **Description**             | Make sure you have the ability to list registry keys accessed at a particular time in the past   |

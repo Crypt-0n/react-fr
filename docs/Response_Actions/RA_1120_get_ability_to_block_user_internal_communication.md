@@ -1,4 +1,4 @@
-| Title                       | Get ability to block user internal communication         |
+| Title                       | Obtenir la capacité de bloquer la communication interne de l'utilisateur         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1120            |
 | **Description**             | Make sure you can block a user for internal communications   |

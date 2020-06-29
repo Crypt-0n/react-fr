@@ -1,4 +1,4 @@
-| Title                       | Get ability to analyse Windows PE         |
+| Title                       | Obtenir la capacité d'analyser les PE Windows         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1318            |
 | **Description**             | Make sure you have the ability to analyse a Windows Portable Executable file   |

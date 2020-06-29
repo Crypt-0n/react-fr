@@ -1,4 +1,4 @@
-| Title                       | Get ability to block process by executable format         |
+| Title                       | Obtenir la possibilité de bloquer le processus par le format de l'exécutable         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1410            |
 | **Description**             | Make sure you have the ability to block process by its executable format   |

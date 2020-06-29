@@ -1,4 +1,4 @@
-| Title                       | Get ability to collect file         |
+| Title                       | Obtenir la possibilité de collecter un fichier         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1311            |
 | **Description**             | Make sure you have the ability to collect a specific file from a (remote) host or a system   |

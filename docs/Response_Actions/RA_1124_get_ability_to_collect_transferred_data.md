@@ -1,4 +1,4 @@
-| Title                       | Get ability to collect transferred data         |
+| Title                       | Obtenir la possibilité de collecter les données transférées         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1124            |
 | **Description**             | Make sure you have the ability to collect the data that is being transferred at the moment or at a particular time in the past   |

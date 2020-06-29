@@ -1,4 +1,4 @@
-| Title                       | Get ability to block process by executable path         |
+| Title                       | Obtenir la possibilité de bloquer le processus par le chemin de l'exécutable         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1407            |
 | **Description**             | Make sure you have the ability to block process by its executable path (including its name)   |

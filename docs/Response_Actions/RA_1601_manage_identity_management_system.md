@@ -1,4 +1,4 @@
-| Title                       | Manage identity management system         |
+| Title                       | Gérer le système de gestion des identités         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1601            |
 | **Description**             | Make sure you can manage Identity Management System, i.e. remove/block users, revoke credentials, and execute other Response Actions   |

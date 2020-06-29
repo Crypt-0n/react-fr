@@ -1,4 +1,4 @@
-| Title                       | Get ability to list processes executed         |
+| Title                       | Obtenir la possibilité de répertorier les processus exécutés         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1401            |
 | **Description**             | Make sure you have the ability to list processes being executed at the moment or at a particular time in the past   |

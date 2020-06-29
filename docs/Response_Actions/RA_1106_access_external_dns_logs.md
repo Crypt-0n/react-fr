@@ -1,4 +1,4 @@
-| Title                       | Access external DNS logs         |
+| Title                       | Accéder aux journaux DNS externes         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1106            |
 | **Description**             | Make sure you have access to external communication DNS logs   |

@@ -1,4 +1,4 @@
-| Title                       | Get ability to list files downloaded         |
+| Title                       | Obtenir la possibilité de répertorier les fichiers téléchargés         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1304            |
 | **Description**             | Make sure you have the ability to list files that have been downloaded from the internet at a particular time in the past   |

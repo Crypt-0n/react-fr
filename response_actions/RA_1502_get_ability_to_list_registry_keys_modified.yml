@@ -1,4 +1,4 @@
-title: RA_1502_get_ability_to_list_registry_keys_modified
+title: RA_1502_obtenir_la_possibilité_de_lister_les_clés_de_registre_modifiées
 id: RA1502
 description: >
   Make sure you have the ability to list registry keys modified at a particular time in the past

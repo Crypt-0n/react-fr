@@ -1,4 +1,4 @@
-| Title                       | Get ability to remove file         |
+| Title                       | Obtenir la possibilité de supprimer un fichier         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1316            |
 | **Description**             | Make sure you have the ability to remove a specific file from a (remote) host or a system   |

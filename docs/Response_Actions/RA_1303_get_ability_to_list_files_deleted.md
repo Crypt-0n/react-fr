@@ -1,4 +1,4 @@
-| Title                       | Get ability to list files deleted         |
+| Title                       | Obtenir la possibilité de répertorier les fichiers supprimés         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1303            |
 | **Description**             | Make sure you have the ability to list files that have been deleted at a particular time in the past   |

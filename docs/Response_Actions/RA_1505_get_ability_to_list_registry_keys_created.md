@@ -1,4 +1,4 @@
-| Title                       | Get ability to list registry keys created         |
+| Title                       | Obtenir la liste des clés de registre créées         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1505            |
 | **Description**             | Make sure you have the ability to list registry keys created at a particular time in the past   |

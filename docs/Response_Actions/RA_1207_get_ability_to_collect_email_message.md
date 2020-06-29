@@ -1,4 +1,4 @@
-| Title                       | Get ability to collect email message         |
+| Title                       | Obtenir la possibilité de collecter un message électronique         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1207            |
 | **Description**             | Make sure you have the ability to collect an email message   |

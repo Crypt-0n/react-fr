@@ -1,4 +1,4 @@
-| Title                       | Get ability to identify transferred data         |
+| Title                       | Obtenir la capacité d'identifier les données transférées         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1125            |
 | **Description**             | Make sure you have the ability to identify the data that is being transferred at the moment or at a particular time in the past (i.e. its content, value)   |

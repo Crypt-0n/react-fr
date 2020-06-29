@@ -1,4 +1,4 @@
-| Title                       | Get ability to block email sender         |
+| Title                       | Obtenir la possibilité de bloquer l'expéditeur du courrier électronique         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1204            |
 | **Description**             | Make sure you have the ability to block an email sender   |

@@ -1,4 +1,4 @@
-| Title                       | Get ability to find process by executable hash         |
+| Title                       | Obtenir la capacité de trouver un processus exécutable par le hash         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1404            |
 | **Description**             | Make sure you have the ability to find process executed at a particular time in the past by its executable hash   |

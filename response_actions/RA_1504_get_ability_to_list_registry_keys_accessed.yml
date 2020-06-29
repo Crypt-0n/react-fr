@@ -1,4 +1,4 @@
-title: RA_1504_get_ability_to_list_registry_keys_accessed
+title: RA_1504_obtenir_la_liste_des_clés_de_registre_accédées
 id: RA1504
 description: >
   Make sure you have the ability to list registry keys accessed at a particular time in the past

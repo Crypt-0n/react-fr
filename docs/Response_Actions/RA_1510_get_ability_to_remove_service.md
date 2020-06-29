@@ -1,4 +1,4 @@
-| Title                       | Get ability to remove service         |
+| Title                       | Obtenir la possibilité de supprimer un service         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1510            |
 | **Description**             | Make sure you have the ability to remove a service   |

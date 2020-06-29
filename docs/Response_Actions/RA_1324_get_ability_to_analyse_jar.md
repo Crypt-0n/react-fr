@@ -1,4 +1,4 @@
-| Title                       | Get ability to analyse jar         |
+| Title                       | Obtenir la capacité d'analyser un fichier jar         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1324            |
 | **Description**             | Make sure you have the ability to analyse JAR file   |

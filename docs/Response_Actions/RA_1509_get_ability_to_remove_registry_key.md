@@ -1,4 +1,4 @@
-| Title                       | Get ability to remove registry key         |
+| Title                       | Obtenir la possibilité de supprimer une clé de registre         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1509            |
 | **Description**             | Make sure you have the ability to remove a registry key   |

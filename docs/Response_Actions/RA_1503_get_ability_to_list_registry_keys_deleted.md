@@ -1,4 +1,4 @@
-| Title                       | Get ability to list registry keys deleted         |
+| Title                       | Obtenir la possibilité de répertorier les clés de registre supprimées         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1503            |
 | **Description**             | Make sure you have the ability to list registry keys deleted at a particular time in the past   |

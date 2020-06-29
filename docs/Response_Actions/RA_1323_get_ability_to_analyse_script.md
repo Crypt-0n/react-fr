@@ -1,4 +1,4 @@
-| Title                       | Get ability to analyse script         |
+| Title                       | Obtenir la capacité d'analyser un script         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1323            |
 | **Description**             | Make sure you have the ability to analyse a script file (i.e. Python, PowerShell, Bash scripts etc)   |

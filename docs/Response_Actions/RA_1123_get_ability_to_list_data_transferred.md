@@ -1,4 +1,4 @@
-| Title                       | Get ability to list data transferred         |
+| Title                       | Obtenir la possibilité de répertorier les données transférées         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1123            |
 | **Description**             | Make sure you have the ability to list the data that is being transferred at the moment or at a particular time in the past   |

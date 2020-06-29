@@ -1,4 +1,4 @@
-title: RA_1323_get_ability_to_analyse_script
+title: RA_1323_obtenir_la_capacité_d'analyser_un_script
 id: RA1323
 description: >
   Make sure you have the ability to analyse a script file (i.e. Python, PowerShell, Bash scripts etc)

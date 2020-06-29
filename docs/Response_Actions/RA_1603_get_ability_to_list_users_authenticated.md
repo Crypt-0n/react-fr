@@ -1,4 +1,4 @@
-| Title                       | Get ability to list users authenticated         |
+| Title                       | Obtenir la possibilité de répertorier les utilisateurs authentifiés         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1603            |
 | **Description**             | Make sure you have the ability to list users authenticated at a particular time in the past on a particular system   |

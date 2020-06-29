@@ -1,4 +1,4 @@
-| Title                       | Get ability to analyse PDF file         |
+| Title                       | Obtenir la capacité d'analyser un fichier PDF         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1322            |
 | **Description**             | Make sure you have the ability to analyse a PDF file   |

@@ -1,4 +1,4 @@
-| Title                       | Get ability to find process by executable format         |
+| Title                       | Obtenir la capacité de trouver un processus exécutable par son format         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1405            |
 | **Description**             | Make sure you have the ability to find process executed at a particular time in the past by its executable format   |

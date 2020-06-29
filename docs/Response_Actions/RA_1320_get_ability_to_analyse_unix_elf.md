@@ -1,4 +1,4 @@
-| Title                       | Get ability to analyse Unix ELF         |
+| Title                       | Obtenir la capacité d'analyser un fichier ELF Unix         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1320            |
 | **Description**             | Make sure you have the ability to analyse a UNIX ELF file   |

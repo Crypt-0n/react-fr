@@ -1,4 +1,4 @@
-| Title                       | Get ability to analyse user-agent         |
+| Title                       | Obtenir la capacité d'analyser les user-agent         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1127            |
 | **Description**             | Make sure you have the ability to analyse an User-Agent request header   |

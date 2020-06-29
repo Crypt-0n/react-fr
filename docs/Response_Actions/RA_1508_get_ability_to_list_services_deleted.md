@@ -1,4 +1,4 @@
-| Title                       | Get ability to list services deleted         |
+| Title                       | Obtenir la possibilité de répertorier les services supprimés         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1508            |
 | **Description**             | Make sure you have the ability to list services that have been deleted at a particular time in the past   |

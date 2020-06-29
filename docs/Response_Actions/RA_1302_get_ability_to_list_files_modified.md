@@ -1,4 +1,4 @@
-| Title                       | Get ability to list files modified         |
+| Title                       | Obtenir la possibilité de lister les fichiers modifiés         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1302            |
 | **Description**             | Make sure you have the ability to list files that have been modified at a particular time in the past   |

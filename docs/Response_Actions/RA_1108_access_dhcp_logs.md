@@ -1,4 +1,4 @@
-| Title                       | Access DHCP logs         |
+| Title                       | Accéder aux journaux DHCP         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1108            |
 | **Description**             | Make sure you have access to DHCP logs   |

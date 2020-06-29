@@ -1,4 +1,4 @@
-| Title                       | Get ability to find file by path         |
+| Title                       | Obtenir la possibilité de trouver un fichier par chemin         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1306            |
 | **Description**             | Make sure you have the ability to find a file by its path (including its name)   |

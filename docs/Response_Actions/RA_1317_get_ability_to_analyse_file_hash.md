@@ -1,4 +1,4 @@
-| Title                       | Get ability to analyse file hash         |
+| Title                       | Obtenir la capacité d'analyser le hash d'un fichier         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1317            |
 | **Description**             | Make sure you have the ability to analyse a file hash   |

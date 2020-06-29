@@ -1,4 +1,4 @@
-title: RA_1411_get_ability_to_block_process_by_executable_content_pattern
+title: RA_1411_obtenir_la_possibilité_de_bloquer_le_processus_par_le_modèle_de_contenu_de_l'exécutable
 id: RA1411
 description: >
   Make sure you have the ability to block process by its executable content pattern (i.e. specific string, keyword, binary pattern etc)

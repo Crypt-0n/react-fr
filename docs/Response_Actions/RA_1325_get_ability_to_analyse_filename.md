@@ -1,4 +1,4 @@
-| Title                       | Get ability to analyse filename         |
+| Title                       | Obtenir la capacité d'analyser le nom de fichier         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1325            |
 | **Description**             | Make sure you have the ability to analyse a filename   |

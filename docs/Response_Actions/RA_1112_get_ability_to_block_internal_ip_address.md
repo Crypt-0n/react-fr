@@ -1,4 +1,4 @@
-| Title                       | Get ability to block internal IP address         |
+| Title                       | Obtenir la possibilité de bloquer l'adresse IP interne         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1112            |
 | **Description**             | Make sure you can block an internal IP address from being accessed by corporate assets   |

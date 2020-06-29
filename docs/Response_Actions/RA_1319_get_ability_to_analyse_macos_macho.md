@@ -1,4 +1,4 @@
-| Title                       | Get ability to analyse macos macho         |
+| Title                       | Obtenir la capacité d'analyser les fichiers Mach-o de macos         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1319            |
 | **Description**             | Make sure you have the ability to analyse a macOS Mach-O file   |

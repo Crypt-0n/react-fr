@@ -1,4 +1,4 @@
-| Title                       | Get ability to block external domain         |
+| Title                       | Obtenir la possibilité de bloquer un domaine externe         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1113            |
 | **Description**             | Make sure you have the ability to block an external domain name from being accessed by corporate assets   |

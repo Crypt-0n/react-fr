@@ -1,4 +1,4 @@
-| Title                       | Get ability to block process by executable metadata         |
+| Title                       | Obtenir la possibilité de bloquer le processus par les métadonnées de l'exécutables         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1408            |
 | **Description**             | Make sure you have the ability to block process by its executable metadata (i.e. signature, permissions, MAC times)   |

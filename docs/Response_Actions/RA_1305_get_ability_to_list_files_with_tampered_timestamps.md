@@ -1,4 +1,4 @@
-| Title                       | Get ability to list files with tampered timestamps         |
+| Title                       | Obtenir la possibilité de répertorier les fichiers avec des horodatages falsifiés         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1305            |
 | **Description**             | Make sure you have the ability to list files with a tampered timestamp   |

@@ -1,4 +1,4 @@
-| Title                       | Get ability to block process by executable hash         |
+| Title                       | Obtenir la capacité de bloquer le processus par le hash de l'exécutable         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1409            |
 | **Description**             | Make sure you have the ability to block process by its executable hash   |

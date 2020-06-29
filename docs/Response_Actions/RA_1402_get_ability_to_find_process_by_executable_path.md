@@ -1,4 +1,4 @@
-| Title                       | Get ability to find process by executable path         |
+| Title                       | Obtenir la capacité de trouver un processus par un chemin exécutable         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1402            |
 | **Description**             | Make sure you have the ability to find process executed at a particular time in the past by its executable path (including its name)   |

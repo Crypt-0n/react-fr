@@ -1,4 +1,4 @@
-| Title                       | Get ability to block external URL         |
+| Title                       | Obtenir la possibilité de bloquer l'url externe         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1115            |
 | **Description**             | Make sure you have the ability to block an external URL from being accessed by corporate assets   |

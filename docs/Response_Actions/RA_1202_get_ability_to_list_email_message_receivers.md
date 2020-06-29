@@ -1,4 +1,4 @@
-| Title                       | Get ability to list email message receivers         |
+| Title                       | Obtenir la possibilité de répertorier les destinataires des e-mails         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1202            |
 | **Description**             | Make sure you have the ability to list receivers of a particular email message   |

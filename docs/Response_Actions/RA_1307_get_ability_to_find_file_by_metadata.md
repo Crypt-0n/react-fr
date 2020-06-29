@@ -1,4 +1,4 @@
-| Title                       | Get ability to find file by metadata         |
+| Title                       | Obtenir la possibilité de trouver un fichier par métadonnées         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1307            |
 | **Description**             | Make sure you have the ability to find file by its metadata (i.e. signature, permissions, MAC times)   |

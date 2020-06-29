@@ -1,4 +1,4 @@
-| Title                       | Get ability to analyse registry key         |
+| Title                       | Obtenir la capacité d'analyser une clé de registre         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1511            |
 | **Description**             | Make sure you have the ability to analyse a registry key   |

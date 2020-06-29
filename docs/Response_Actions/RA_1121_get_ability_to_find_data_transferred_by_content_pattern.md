@@ -1,4 +1,4 @@
-| Title                       | Get ability to find data transferred by content pattern         |
+| Title                       | Obtenir la capacité de trouver des données transférées par modèle de contenu         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1121            |
 | **Description**             | Make sure you have the ability to find data transferred at a particular time in the past by its content pattern (i.e. specific string, keyword, binary pattern etc)   |

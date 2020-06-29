@@ -1,4 +1,4 @@
-| Title                       | Get ability to find process by executable metadata         |
+| Title                       | Obtenir la capacité de trouver un processus par les métadonnées d'un exécutable         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1403            |
 | **Description**             | Make sure you have the ability to find process executed at a particular time in the past by its executable metadata (i.e. signature, permissions, MAC times)   |

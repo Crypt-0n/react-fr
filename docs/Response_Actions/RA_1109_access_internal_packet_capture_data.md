@@ -1,4 +1,4 @@
-| Title                       | Access internal packet capture data         |
+| Title                       | Accéder aux données internes de capture de paquets         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1109            |
 | **Description**             | Make sure you have access to internal communication Packet Capture data   |

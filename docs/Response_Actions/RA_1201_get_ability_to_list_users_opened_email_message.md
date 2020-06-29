@@ -1,4 +1,4 @@
-| Title                       | Get ability to list users opened email message         |
+| Title                       | Obtenir la possibilité de répertorier les e-mails ouverts des utilisateurs         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1201            |
 | **Description**             | Make sure you have the ability to list users who opened a particular email message   |

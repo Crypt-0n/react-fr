@@ -1,4 +1,4 @@
-| Title                       | Get ability to find file by format         |
+| Title                       | Obtenir la possibilité de trouver un fichier par format         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1309            |
 | **Description**             | Make sure you have the ability to find a file by its format   |

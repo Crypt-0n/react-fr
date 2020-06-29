@@ -1,4 +1,4 @@
-| Title                       | Get ability to analyse email address         |
+| Title                       | Obtenir la capacité d'analyser l'adresse e-mail         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1208            |
 | **Description**             | Make sure you have the ability to analyse an email address   |
