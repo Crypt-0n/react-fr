@@ -1,7 +1,7 @@
-| Title             | Phishing email                                                                                                      |
+| Title             | E-mail malveillant                                                                                                      |
 |:-----------------:|:-----------------------------------------------------------------------------------------------------------------|
 | **ID**            | RP0001            |
-| **Description**   | Playbook de réponse pour le cas du courrier électronique malveillant   |
+| **Description**   | Playbook de réponse pour le cas d'un courrier électronique malveillant   |
 | **Author**        | @atc_project        |
 | **Creation Date** | 31.01.2019 |
 | **Severity**      | M      |

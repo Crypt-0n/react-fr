@@ -1,6 +1,6 @@
-title: RP_0001_phishing_email
+title: RP_0001_E-mail_malveillant
 id: RP0001
-description: Playbook de réponse pour le cas du courrier électronique malveillant
+description: Playbook de réponse pour le cas d'un courrier électronique malveillant
 author: '@atc_project'
 creation_date: 31.01.2019
 severity: M
