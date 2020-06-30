@@ -1,11 +1,11 @@
-| Title                       | Analyser le nom de fichier         |
+| Titre                       | Analyser le nom de fichier         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2320            |
 | **Description**             | Analyse a filename   |
-| **Author**                  | your name/nickname/twitter        |
+| **Auteur**                  | your name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
-| **Category**                | File      |
-| **Stage**                   |[RS0002: Identification](../Response_Stages/RS0002.md)| 
+| **Catégorie**                | File      |
+| **Étapes**                   |[RS0002: Identification](../Response_Stages/RS0002.md)| 
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 
 ### Workflow

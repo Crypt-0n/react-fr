@@ -1,11 +1,11 @@
-| Title                       | Bloquer la communication interne de l'utilisateur         |
+| Titre                       | Bloquer la communication interne de l'utilisateur         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA3110            |
 | **Description**             | Block a user for internal communications   |
-| **Author**                  | @atc_project        |
+| **Auteur**                  | @atc_project        |
 | **Creation Date**           | 31.01.2019 |
-| **Category**                | Network      |
-| **Stage**                   |[RS0003: Containment](../Response_Stages/RS0003.md)| 
+| **Catégorie**                | Network      |
+| **Étapes**                   |[RS0003: Containment](../Response_Stages/RS0003.md)| 
 | **Requirements** |<ul><li>MS_intranet_proxy</li><li>MS_intranet_ips</li><li>MS_intranet_ngfw</li><li>MS_nac</li></ul>|
 
 ### Workflow

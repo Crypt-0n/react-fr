@@ -1,11 +1,11 @@
-| Title                       | Répertorier les utilisateurs authentifiés         |
+| Titre                       | Répertorier les utilisateurs authentifiés         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2601            |
 | **Description**             | List users authenticated at a particular time in the past on a particular system   |
-| **Author**                  | name/nickname/twitter        |
+| **Auteur**                  | name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
-| **Category**                | Identity      |
-| **Stage**                   |[RS0002: Identification](../Response_Stages/RS0002.md)| 
+| **Catégorie**                | Identity      |
+| **Étapes**                   |[RS0002: Identification](../Response_Stages/RS0002.md)| 
 | **Automation** |<ul><li>thehive</li></ul>|
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 

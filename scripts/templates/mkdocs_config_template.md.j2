@@ -1,4 +1,4 @@
-site_name: RE&CT
+site_name: RE&CT-FR
 site_dir: site/
 docs_dir: docs/
 
@@ -9,9 +9,8 @@ theme:
     search_index_only: true
     titles_only: true
 
-repo_url: https://github.com/atc-project/atc-react
+repo_url: https://github.com/Crypt-0n/react-fr
 edit_uri: blob/master/docs/
-google_analytics: ['UA-165240552-2', 'https://atc-project.github.io/atc-react/']
 
 plugins:
     - awesome-pages
@@ -23,11 +22,10 @@ plugins:
             - "thehive_templates"
 nav:
     - Introduction:
-        - RE&CT Framework (EN): index.md
-        - RE&CT Framework (RU): index_RU.md
-        - Response Stages: responsestages.md
+        - RE&CT Framework (FR): index.md
+        - Étapes de réponse: responsestages.md
 {%- if stages is not none and stages|length -%}
-{{'\n'}}    - Response Actions:
+{{'\n'}}    - Actions de réponse:
 {%- for stage_name, stage_actions in stages -%}
     {%- if stage_actions is not none and stage_actions|length -%}
         {{'\n'}}        - {{stage_name}}:
@@ -37,7 +35,7 @@ nav:
 {%- endfor %}
 {%- endif -%}
 {%- if playbooks is not none and playbooks|length -%}
-    {{'\n'}}    - Response Playbooks:
+    {{'\n'}}    - Playbooks de réponse:
     {%- for playbook_title, playbook_path in playbooks -%}
         {{'\n'}}        - "{{playbook_title}}": ./Response_Playbooks/{{playbook_path}}.md
     {%- endfor -%}

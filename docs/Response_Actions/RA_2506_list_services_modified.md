@@ -1,11 +1,11 @@
-| Title                       | Lister les services modifiés         |
+| Titre                       | Lister les services modifiés         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2506            |
 | **Description**             | List services that have been modified at a particular time in the past   |
-| **Author**                  | your name/nickname/twitter        |
+| **Auteur**                  | your name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
-| **Category**                | Configuration      |
-| **Stage**                   |[RS0002: Identification](../Response_Stages/RS0002.md)| 
+| **Catégorie**                | Configuration      |
+| **Étapes**                   |[RS0002: Identification](../Response_Stages/RS0002.md)| 
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 | **Requirements** |<ul><li>DN_zeek_conn_log</li></ul>|
 

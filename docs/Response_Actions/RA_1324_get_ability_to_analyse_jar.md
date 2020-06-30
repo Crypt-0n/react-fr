@@ -1,11 +1,11 @@
-| Title                       | Obtenir la capacité d'analyser un fichier jar         |
+| Titre                       | Obtenir la capacité d'analyser un fichier jar         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1324            |
 | **Description**             | Make sure you have the ability to analyse JAR file   |
-| **Author**                  | your name/nickname/twitter        |
+| **Auteur**                  | your name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
-| **Category**                | File      |
-| **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
+| **Catégorie**                | File      |
+| **Étapes**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 
 ### Workflow

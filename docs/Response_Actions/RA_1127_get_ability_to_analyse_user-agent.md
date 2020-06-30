@@ -1,11 +1,11 @@
-| Title                       | Obtenir la capacité d'analyser les user-agent         |
+| Titre                       | Obtenir la capacité d'analyser les user-agent         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1127            |
 | **Description**             | Make sure you have the ability to analyse an User-Agent request header   |
-| **Author**                  | your name/nickname/twitter        |
+| **Auteur**                  | your name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
-| **Category**                | Network      |
-| **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
+| **Catégorie**                | Network      |
+| **Étapes**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 
 ### Workflow

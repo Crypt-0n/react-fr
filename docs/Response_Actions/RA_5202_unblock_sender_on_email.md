@@ -1,11 +1,11 @@
-| Title                       | Débloquer l'expéditeur de l'e-mail         |
+| Titre                       | Débloquer l'expéditeur de l'e-mail         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA5202            |
 | **Description**             | Unblock a sender on email   |
-| **Author**                  | @atc_project        |
+| **Auteur**                  | @atc_project        |
 | **Creation Date**           | 06.05.2020 |
-| **Category**                | Email      |
-| **Stage**                   |[RS0005: Recovery](../Response_Stages/RS0005.md)| 
+| **Catégorie**                | Email      |
+| **Étapes**                   |[RS0005: Recovery](../Response_Stages/RS0005.md)| 
 | **Requirements** |<ul><li>MS_email_server</li></ul>|
 
 ### Workflow

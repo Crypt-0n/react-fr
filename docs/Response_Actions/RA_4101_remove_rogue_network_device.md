@@ -1,11 +1,11 @@
-| Title                       | Supprimer le périphérique réseau non autorisé         |
+| Titre                       | Supprimer le périphérique réseau non autorisé         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA4101            |
 | **Description**             | Remove a rogue network device   |
-| **Author**                  | your name/nickname/twitter        |
+| **Auteur**                  | your name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
-| **Category**                | Network      |
-| **Stage**                   |[RS0004: Eradication](../Response_Stages/RS0004.md)| 
+| **Catégorie**                | Network      |
+| **Étapes**                   |[RS0004: Eradication](../Response_Stages/RS0004.md)| 
 | **Automation** |<ul><li>thehive/phantom/demisto/etc</li></ul>|
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 

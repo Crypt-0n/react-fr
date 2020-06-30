@@ -1,11 +1,11 @@
-| Title                       | Suivre des formations         |
+| Titre                       | Suivre des formations         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1002            |
 | **Description**             | Suivez des cours de formation pour acquérir des connaissances pertinentes   |
-| **Author**                  | @atc_project        |
+| **Auteur**                  | @atc_project        |
 | **Creation Date**           | 08.04.2020 |
-| **Category**                | General      |
-| **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
+| **Catégorie**                | General      |
+| **Étapes**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
 
 ### Workflow
 

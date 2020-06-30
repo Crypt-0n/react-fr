@@ -1,11 +1,11 @@
-| Title                       | Lister les clés de registre créées         |
+| Titre                       | Lister les clés de registre créées         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2504            |
 | **Description**             | List registry keys that have been created at a particular time in the past   |
-| **Author**                  | your name/nickname/twitter        |
+| **Auteur**                  | your name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
-| **Category**                | Configuration      |
-| **Stage**                   |[RS0002: Identification](../Response_Stages/RS0002.md)| 
+| **Catégorie**                | Configuration      |
+| **Étapes**                   |[RS0002: Identification](../Response_Stages/RS0002.md)| 
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 | **Requirements** |<ul><li>DN_zeek_conn_log</li></ul>|
 

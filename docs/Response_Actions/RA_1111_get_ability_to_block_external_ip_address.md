@@ -1,11 +1,11 @@
-| Title                       | Obtenir la possibilité de bloquer l'adresse IP externe         |
+| Titre                       | Obtenir la possibilité de bloquer l'adresse IP externe         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1111            |
 | **Description**             | Make sure you have the ability to block an external IP address from being accessed by corporate assets   |
-| **Author**                  | @atc_project        |
+| **Auteur**                  | @atc_project        |
 | **Creation Date**           | 06.05.2020 |
-| **Category**                | Network      |
-| **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
+| **Catégorie**                | Network      |
+| **Étapes**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 | **Requirements** |<ul><li>MS_border_firewall</li><li>MS_border_proxy</li><li>MS_border_ips</li><li>MS_border_ngfw</li><li>MS_host_firewall</li></ul>|
 

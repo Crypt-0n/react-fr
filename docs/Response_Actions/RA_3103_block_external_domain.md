@@ -1,11 +1,11 @@
-| Title                       | Bloquer le domaine externe         |
+| Titre                       | Bloquer le domaine externe         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA3103            |
 | **Description**             | Block an external domain name from being accessed by corporate assets   |
-| **Author**                  | @atc_project        |
+| **Auteur**                  | @atc_project        |
 | **Creation Date**           | 31.01.2019 |
-| **Category**                | Network      |
-| **Stage**                   |[RS0003: Containment](../Response_Stages/RS0003.md)| 
+| **Catégorie**                | Network      |
+| **Étapes**                   |[RS0003: Containment](../Response_Stages/RS0003.md)| 
 | **References** |<ul><li>[https://en.wikipedia.org/wiki/DNS_sinkhole](https://en.wikipedia.org/wiki/DNS_sinkhole)</li></ul>|
 | **Requirements** |<ul><li>MS_border_proxy</li><li>MS_border_ips</li><li>MS_border_ngfw</li><li>MS_dns_server</li></ul>|
 

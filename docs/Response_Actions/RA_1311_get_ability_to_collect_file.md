@@ -1,11 +1,11 @@
-| Title                       | Obtenir la possibilité de collecter un fichier         |
+| Titre                       | Obtenir la possibilité de collecter un fichier         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1311            |
 | **Description**             | Make sure you have the ability to collect a specific file from a (remote) host or a system   |
-| **Author**                  | your name/nickname/twitter        |
+| **Auteur**                  | your name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
-| **Category**                | File      |
-| **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
+| **Catégorie**                | File      |
+| **Étapes**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 | **Requirements** |<ul><li>DN_zeek_conn_log</li></ul>|
 

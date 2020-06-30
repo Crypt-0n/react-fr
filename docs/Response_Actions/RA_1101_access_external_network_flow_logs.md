@@ -1,11 +1,11 @@
-| Title                       | Accéder aux journaux de flux du réseau externe         |
+| Titre                       | Accéder aux journaux de flux du réseau externe         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1101            |
 | **Description**             | Assurez-vous d'avoir accès aux journaux de flux réseau de communication externe   |
-| **Author**                  | @atc_project        |
+| **Auteur**                  | @atc_project        |
 | **Creation Date**           | 06.05.2020 |
-| **Category**                | Network      |
-| **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
+| **Catégorie**                | Network      |
+| **Étapes**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
 | **References** |<ul><li>[https://en.wikipedia.org/wiki/NetFlow](https://en.wikipedia.org/wiki/NetFlow)</li><li>[https://www.plixer.com/blog/how-accurate-is-sampled-netflow/](https://www.plixer.com/blog/how-accurate-is-sampled-netflow/)</li></ul>|
 | **Requirements** |<ul><li>MS_border_firewall</li><li>MS_border_ngfw</li><li>DN_zeek_conn_log</li></ul>|
 

@@ -1,11 +1,11 @@
-| Title                       | Obtenir la possibilité de bloquer le processus par les métadonnées de l'exécutables         |
+| Titre                       | Obtenir la possibilité de bloquer le processus par les métadonnées de l'exécutables         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1408            |
 | **Description**             | Make sure you have the ability to block process by its executable metadata (i.e. signature, permissions, MAC times)   |
-| **Author**                  | your name/nickname/twitter        |
+| **Auteur**                  | your name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
-| **Category**                | Process      |
-| **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
+| **Catégorie**                | Process      |
+| **Étapes**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 | **Requirements** |<ul><li>DN_zeek_conn_log</li></ul>|
 

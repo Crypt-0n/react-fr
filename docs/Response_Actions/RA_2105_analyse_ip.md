@@ -1,11 +1,11 @@
-| Title                       | Analyser l'ip         |
+| Titre                       | Analyser l'ip         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2105            |
 | **Description**             | Analyse an IP address   |
-| **Author**                  | name/nickname/twitter        |
+| **Auteur**                  | name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
-| **Category**                | Network      |
-| **Stage**                   |[RS0002: Identification](../Response_Stages/RS0002.md)| 
+| **Catégorie**                | Network      |
+| **Étapes**                   |[RS0002: Identification](../Response_Stages/RS0002.md)| 
 | **Automation** |<ul><li>thehive</li></ul>|
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 

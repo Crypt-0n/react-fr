@@ -1,11 +1,11 @@
-| Title                       | Analyser un fchier via son hash         |
+| Titre                       | Analyser un fchier via son hash         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2312            |
 | **Description**             | Analise a hash of a file   |
-| **Author**                  | your name/nickname/twitter        |
+| **Auteur**                  | your name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
-| **Category**                | File      |
-| **Stage**                   |[RS0002: Identification](../Response_Stages/RS0002.md)| 
+| **Catégorie**                | File      |
+| **Étapes**                   |[RS0002: Identification](../Response_Stages/RS0002.md)| 
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 | **Requirements** |<ul><li>DN_zeek_conn_log</li></ul>|
 

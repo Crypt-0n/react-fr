@@ -1,11 +1,11 @@
-| Title                       | Obtenir la capacité d'analyser une clé de registre         |
+| Titre                       | Obtenir la capacité d'analyser une clé de registre         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1511            |
 | **Description**             | Make sure you have the ability to analyse a registry key   |
-| **Author**                  | your name/nickname/twitter        |
+| **Auteur**                  | your name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
-| **Category**                | Configuration      |
-| **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
+| **Catégorie**                | Configuration      |
+| **Étapes**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 
 ### Workflow

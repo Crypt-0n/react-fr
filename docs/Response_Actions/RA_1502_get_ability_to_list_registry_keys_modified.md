@@ -1,11 +1,11 @@
-| Title                       | Obtenir la possibilité de lister les clés de registre modifiées         |
+| Titre                       | Obtenir la possibilité de lister les clés de registre modifiées         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1502            |
 | **Description**             | Make sure you have the ability to list registry keys modified at a particular time in the past   |
-| **Author**                  | your name/nickname/twitter        |
+| **Auteur**                  | your name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
-| **Category**                | Configuration      |
-| **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
+| **Catégorie**                | Configuration      |
+| **Étapes**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 | **Requirements** |<ul><li>DN_zeek_conn_log</li></ul>|
 

@@ -1,11 +1,11 @@
-| Title                       | Obtenir la possibilité de collecter un message électronique         |
+| Titre                       | Obtenir la possibilité de collecter un message électronique         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1207            |
 | **Description**             | Make sure you have the ability to collect an email message   |
-| **Author**                  | your name/nickname/twitter        |
+| **Auteur**                  | your name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
-| **Category**                | Email      |
-| **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
+| **Catégorie**                | Email      |
+| **Étapes**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 | **Requirements** |<ul><li>DN_zeek_conn_log</li></ul>|
 

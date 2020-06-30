@@ -1,11 +1,11 @@
-| Title                       | Obtenir la possibilité de bloquer l'url externe         |
+| Titre                       | Obtenir la possibilité de bloquer l'url externe         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1115            |
 | **Description**             | Make sure you have the ability to block an external URL from being accessed by corporate assets   |
-| **Author**                  | @atc_project        |
+| **Auteur**                  | @atc_project        |
 | **Creation Date**           | 06.05.2020 |
-| **Category**                | Network      |
-| **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
+| **Catégorie**                | Network      |
+| **Étapes**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
 | **References** |<ul><li>[https://wiki.squid-cache.org/SquidFaq/SquidAcl](https://wiki.squid-cache.org/SquidFaq/SquidAcl)</li></ul>|
 | **Requirements** |<ul><li>MS_border_proxy</li><li>MS_border_ips</li><li>MS_border_ngfw</li></ul>|
 

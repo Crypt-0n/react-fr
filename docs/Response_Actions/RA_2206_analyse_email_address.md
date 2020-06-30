@@ -1,11 +1,11 @@
-| Title                       | Analyser l'adresse e-mail         |
+| Titre                       | Analyser l'adresse e-mail         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2206            |
 | **Description**             | Analyse an email address   |
-| **Author**                  | name/nickname/twitter        |
+| **Auteur**                  | name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
-| **Category**                | Email      |
-| **Stage**                   |[RS0002: Identification](../Response_Stages/RS0002.md)| 
+| **Catégorie**                | Email      |
+| **Étapes**                   |[RS0002: Identification](../Response_Stages/RS0002.md)| 
 | **Automation** |<ul><li>thehive</li></ul>|
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 

@@ -1,11 +1,11 @@
-| Title                       | Obtenir la possibilité de collecter les données transférées         |
+| Titre                       | Obtenir la possibilité de collecter les données transférées         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1124            |
 | **Description**             | Make sure you have the ability to collect the data that is being transferred at the moment or at a particular time in the past   |
-| **Author**                  | your name/nickname/twitter        |
+| **Auteur**                  | your name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
-| **Category**                | Network      |
-| **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
+| **Catégorie**                | Network      |
+| **Étapes**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 | **Requirements** |<ul><li>DN_zeek_conn_log</li></ul>|
 

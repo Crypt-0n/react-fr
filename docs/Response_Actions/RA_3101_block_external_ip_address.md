@@ -1,11 +1,11 @@
-| Title                       | Bloquer l'adresse IP externe         |
+| Titre                       | Bloquer l'adresse IP externe         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA3101            |
 | **Description**             | Block an external IP address from being accessed by corporate assets   |
-| **Author**                  | @atc_project        |
+| **Auteur**                  | @atc_project        |
 | **Creation Date**           | 31.01.2019 |
-| **Category**                | Network      |
-| **Stage**                   |[RS0003: Containment](../Response_Stages/RS0003.md)| 
+| **Catégorie**                | Network      |
+| **Étapes**                   |[RS0003: Containment](../Response_Stages/RS0003.md)| 
 | **Requirements** |<ul><li>MS_border_firewall</li><li>MS_border_proxy</li><li>MS_border_ips</li><li>MS_border_ngfw</li><li>MS_host_firewall</li></ul>|
 
 ### Workflow

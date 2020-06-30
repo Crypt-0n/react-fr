@@ -1,11 +1,11 @@
-| Title                       | Restaurer le fichier en quarantaine         |
+| Titre                       | Restaurer le fichier en quarantaine         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA5301            |
 | **Description**             | Restore a quarantined file   |
-| **Author**                  | your name/nickname/twitter        |
+| **Auteur**                  | your name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
-| **Category**                | File      |
-| **Stage**                   |[RS0005: Recovery](../Response_Stages/RS0005.md)| 
+| **Catégorie**                | File      |
+| **Étapes**                   |[RS0005: Recovery](../Response_Stages/RS0005.md)| 
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 | **Requirements** |<ul><li>DN_zeek_conn_log</li></ul>|
 

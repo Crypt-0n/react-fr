@@ -1,11 +1,11 @@
-| Title                       | Réinstaller l'hôte à partir d'une image propre         |
+| Titre                       | Réinstaller l'hôte à partir d'une image propre         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA5001            |
 | **Description**             | Reinstall host OS from a golden image   |
-| **Author**                  | name/nickname/twitter        |
+| **Auteur**                  | name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
-| **Category**                | General      |
-| **Stage**                   |[RS0005: Recovery](../Response_Stages/RS0005.md)| 
+| **Catégorie**                | General      |
+| **Étapes**                   |[RS0005: Recovery](../Response_Stages/RS0005.md)| 
 | **Automation** |<ul><li>thehive</li></ul>|
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 

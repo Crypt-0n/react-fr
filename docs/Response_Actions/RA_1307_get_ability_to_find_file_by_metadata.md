@@ -1,11 +1,11 @@
-| Title                       | Obtenir la possibilité de trouver un fichier par métadonnées         |
+| Titre                       | Obtenir la possibilité de trouver un fichier par métadonnées         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1307            |
 | **Description**             | Make sure you have the ability to find file by its metadata (i.e. signature, permissions, MAC times)   |
-| **Author**                  | your name/nickname/twitter        |
+| **Auteur**                  | your name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
-| **Category**                | File      |
-| **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
+| **Catégorie**                | File      |
+| **Étapes**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 | **Requirements** |<ul><li>DN_zeek_conn_log</li></ul>|
 

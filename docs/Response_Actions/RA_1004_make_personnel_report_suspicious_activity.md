@@ -1,11 +1,11 @@
-| Title                       | Obliger le personnel à signaler une activité suspecte         |
+| Titre                       | Obliger le personnel à signaler une activité suspecte         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1004            |
 | **Description**             | Assurez-vous que le personnel signalera une activité suspecte, c'est-à-dire des e-mails suspects, des liens, des fichiers, des activités sur leurs ordinateurs, etc.   |
-| **Author**                  | @atc_project        |
+| **Auteur**                  | @atc_project        |
 | **Creation Date**           | 06.05.2020 |
-| **Category**                | General      |
-| **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
+| **Catégorie**                | General      |
+| **Étapes**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
 
 ### Workflow
 

@@ -1,11 +1,11 @@
-| Title                       | Collecter l'e-mail         |
+| Titre                       | Collecter l'e-mail         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2202            |
 | **Description**             | Collect an email message   |
-| **Author**                  | @atc_project        |
+| **Auteur**                  | @atc_project        |
 | **Creation Date**           | 31.01.2019 |
-| **Category**                | Email      |
-| **Stage**                   |[RS0002: Identification](../Response_Stages/RS0002.md)| 
+| **Catégorie**                | Email      |
+| **Étapes**                   |[RS0002: Identification](../Response_Stages/RS0002.md)| 
 | **References** |<ul><li>[https://www.lifewire.com/save-an-email-as-an-eml-file-in-gmail-1171956](https://www.lifewire.com/save-an-email-as-an-eml-file-in-gmail-1171956)</li><li>[https://eml.tooutlook.com/](https://eml.tooutlook.com/)</li></ul>|
 
 ### Workflow

@@ -1,8 +1,11 @@
-🇷🇺 [Русская версия](index_RU.md)  
+# RE&CT-FR
 
-# RE&CT
 
-![](images/logo_v2.png)
+L'objectif de ce fork est de traduire et adapter le framework RE&CT de AtomicThreatCoverage pour une utilisation française.    
+[Github du projet original](https://github.com/atc-project/atc-react)
+
+Nous conservons à l'identique les "Response Stage" et "Response Actions" que nous traduisons en français.    
+Nous adaptons les descriptions afin de tenter de les rendre les plus pertinentes possible.
 
 The RE&CT Framework is designed for accumulating, describing and categorizing actionable Incident Response techniques.  
 

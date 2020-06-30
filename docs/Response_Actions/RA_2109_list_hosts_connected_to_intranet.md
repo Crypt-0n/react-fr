@@ -1,11 +1,11 @@
-| Title                       | Liste des hôtes connectés à l'intranet         |
+| Titre                       | Liste des hôtes connectés à l'intranet         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2109            |
 | **Description**             | List hosts connected to the internal network at the moment or at a particular time in the past   |
-| **Author**                  | your name/nickname/twitter        |
+| **Auteur**                  | your name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
-| **Category**                | Network      |
-| **Stage**                   |[RS0002: Identification](../Response_Stages/RS0002.md)| 
+| **Catégorie**                | Network      |
+| **Étapes**                   |[RS0002: Identification](../Response_Stages/RS0002.md)| 
 | **Automation** |<ul><li>thehive/phantom/demisto/etc</li></ul>|
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 

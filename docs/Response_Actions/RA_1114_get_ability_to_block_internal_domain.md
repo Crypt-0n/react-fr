@@ -1,11 +1,11 @@
-| Title                       | Obtenir la possibilité de bloquer le domaine interne         |
+| Titre                       | Obtenir la possibilité de bloquer le domaine interne         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1114            |
 | **Description**             | Make sure you can block an internal domain name from being accessed by corporate assets   |
-| **Author**                  | your name/nickname/twitter        |
+| **Auteur**                  | your name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
-| **Category**                | Network      |
-| **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
+| **Catégorie**                | Network      |
+| **Étapes**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 | **Requirements** |<ul><li>MS_intranet_proxy</li><li>MS_intranet_ips</li><li>MS_intranet_ngfw</li><li>MS_dns_server</li></ul>|
 

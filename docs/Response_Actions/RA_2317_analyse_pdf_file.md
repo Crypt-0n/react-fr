@@ -1,11 +1,11 @@
-| Title                       | Analyser un fichier PDF         |
+| Titre                       | Analyser un fichier PDF         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2317            |
 | **Description**             | Analise PDF file   |
-| **Author**                  | your name/nickname/twitter        |
+| **Auteur**                  | your name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
-| **Category**                | File      |
-| **Stage**                   |[RS0002: Identification](../Response_Stages/RS0002.md)| 
+| **Catégorie**                | File      |
+| **Étapes**                   |[RS0002: Identification](../Response_Stages/RS0002.md)| 
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 | **Requirements** |<ul><li>DN_zeek_conn_log</li></ul>|
 

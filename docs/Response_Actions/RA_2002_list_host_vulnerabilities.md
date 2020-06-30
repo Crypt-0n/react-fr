@@ -1,11 +1,11 @@
-| Title                       | Répertorier les vulnérabilités de l'hôte         |
+| Titre                       | Répertorier les vulnérabilités de l'hôte         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2002            |
 | **Description**             | Get information about a specific host existing vulnerabilities, or about vulnerabilities it had at a particular time in the past   |
-| **Author**                  | your name/nickname/twitter        |
+| **Auteur**                  | your name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
-| **Category**                | General      |
-| **Stage**                   |[RS0002: Identification](../Response_Stages/RS0002.md)| 
+| **Catégorie**                | General      |
+| **Étapes**                   |[RS0002: Identification](../Response_Stages/RS0002.md)| 
 | **Automation** |<ul><li>thehive/phantom/demisto/etc</li></ul>|
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 

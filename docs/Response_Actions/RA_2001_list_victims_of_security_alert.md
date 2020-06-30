@@ -1,11 +1,11 @@
-| Title                       | Répertorier les victimes de l'alerte de sécurité         |
+| Titre                       | Répertorier les victimes de l'alerte de sécurité         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2001            |
 | **Description**             | List victims of a security alert   |
-| **Author**                  | name/nickname/twitter        |
+| **Auteur**                  | name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
-| **Category**                | General      |
-| **Stage**                   |[RS0002: Identification](../Response_Stages/RS0002.md)| 
+| **Catégorie**                | General      |
+| **Étapes**                   |[RS0002: Identification](../Response_Stages/RS0002.md)| 
 | **Automation** |<ul><li>thehive</li></ul>|
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 

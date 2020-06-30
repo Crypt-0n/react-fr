@@ -1,11 +1,11 @@
-| Title                       | Obtenir la capacité d'analyser les fichiers MS office         |
+| Titre                       | Obtenir la capacité d'analyser les fichiers MS office         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1321            |
 | **Description**             | Make sure you have the ability to analyse a Microsoft Office file   |
-| **Author**                  | your name/nickname/twitter        |
+| **Auteur**                  | your name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
-| **Category**                | File      |
-| **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
+| **Catégorie**                | File      |
+| **Étapes**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 
 ### Workflow

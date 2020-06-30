@@ -1,11 +1,11 @@
-| Title                       | Obtenir la possibilité de verrouiller un compte utilisateur         |
+| Titre                       | Obtenir la possibilité de verrouiller un compte utilisateur         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1602            |
 | **Description**             | Make sure you have the ability to lock user account from being used   |
-| **Author**                  | your name/nickname/twitter        |
+| **Auteur**                  | your name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
-| **Category**                | Identity      |
-| **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
+| **Catégorie**                | Identity      |
+| **Étapes**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 | **Requirements** |<ul><li>DN_zeek_conn_log</li></ul>|
 

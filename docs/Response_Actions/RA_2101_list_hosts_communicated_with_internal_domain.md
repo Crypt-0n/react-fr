@@ -1,11 +1,11 @@
-| Title                       | Liste des hôtes qui ont communiqués avec le domaine interne         |
+| Titre                       | Liste des hôtes qui ont communiqués avec le domaine interne         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2101            |
 | **Description**             | List hosts communicated with an internal domain   |
-| **Author**                  | name/nickname/twitter        |
+| **Auteur**                  | name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
-| **Category**                | Network      |
-| **Stage**                   |[RS0002: Identification](../Response_Stages/RS0002.md)| 
+| **Catégorie**                | Network      |
+| **Étapes**                   |[RS0002: Identification](../Response_Stages/RS0002.md)| 
 | **Automation** |<ul><li>thehive</li></ul>|
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 

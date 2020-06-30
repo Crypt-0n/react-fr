@@ -1,11 +1,11 @@
-| Title                       | Accéder aux données internes de capture de paquets         |
+| Titre                       | Accéder aux données internes de capture de paquets         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1109            |
 | **Description**             | Make sure you have access to internal communication Packet Capture data   |
-| **Author**                  | your name/nickname/twitter        |
+| **Auteur**                  | your name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
-| **Category**                | Network      |
-| **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
+| **Catégorie**                | Network      |
+| **Étapes**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 | **Requirements** |<ul><li>DN_PCAP</li></ul>|
 

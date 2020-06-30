@@ -1,11 +1,11 @@
-| Title                       | Obtenir la possibilité de répertorier les fichiers téléchargés         |
+| Titre                       | Obtenir la possibilité de répertorier les fichiers téléchargés         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1304            |
 | **Description**             | Make sure you have the ability to list files that have been downloaded from the internet at a particular time in the past   |
-| **Author**                  | your name/nickname/twitter        |
+| **Auteur**                  | your name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
-| **Category**                | File      |
-| **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
+| **Catégorie**                | File      |
+| **Étapes**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 | **Requirements** |<ul><li>DN_zeek_conn_log</li></ul>|
 

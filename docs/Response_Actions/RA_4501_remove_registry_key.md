@@ -1,11 +1,11 @@
-| Title                       | Supprimer la clé de registre         |
+| Titre                       | Supprimer la clé de registre         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA4501            |
 | **Description**             | Remove a registry key   |
-| **Author**                  | your name/nickname/twitter        |
+| **Auteur**                  | your name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
-| **Category**                | Configuration      |
-| **Stage**                   |[RS0004: Eradication](../Response_Stages/RS0004.md)| 
+| **Catégorie**                | Configuration      |
+| **Étapes**                   |[RS0004: Eradication](../Response_Stages/RS0004.md)| 
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 | **Requirements** |<ul><li>DN_zeek_conn_log</li></ul>|
 

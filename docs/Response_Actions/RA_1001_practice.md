@@ -1,11 +1,11 @@
-| Title                       | S'exercer         |
+| Titre                       | S'exercer         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1001            |
 | **Description**             | Pratiquez dans l'environnement réel. Affiner les actions de réponse au sein de votre organisation   |
-| **Author**                  | @atc_project        |
+| **Auteur**                  | @atc_project        |
 | **Creation Date**           | 08.04.2020 |
-| **Category**                | General      |
-| **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
+| **Catégorie**                | General      |
+| **Étapes**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
 
 ### Workflow
 

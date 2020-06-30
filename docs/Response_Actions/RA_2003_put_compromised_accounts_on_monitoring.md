@@ -1,11 +1,11 @@
-| Title                       | Mettre des comptes compromis sous surveillance         |
+| Titre                       | Mettre des comptes compromis sous surveillance         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2003            |
 | **Description**             | Put (potentially) compromised accounts on monitoring   |
-| **Author**                  | @atc_project        |
+| **Auteur**                  | @atc_project        |
 | **Creation Date**           | 31.01.2019 |
-| **Category**                | General      |
-| **Stage**                   |[RS0002: Identification](../Response_Stages/RS0002.md)| 
+| **Catégorie**                | General      |
+| **Étapes**                   |[RS0002: Identification](../Response_Stages/RS0002.md)| 
 
 ### Workflow
 

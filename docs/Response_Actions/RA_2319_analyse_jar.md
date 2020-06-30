@@ -1,11 +1,11 @@
-| Title                       | Analyser un fichier jar         |
+| Titre                       | Analyser un fichier jar         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2319            |
 | **Description**             | Analyse a JAR file   |
-| **Author**                  | your name/nickname/twitter        |
+| **Auteur**                  | your name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
-| **Category**                | File      |
-| **Stage**                   |[RS0002: Identification](../Response_Stages/RS0002.md)| 
+| **Catégorie**                | File      |
+| **Étapes**                   |[RS0002: Identification](../Response_Stages/RS0002.md)| 
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 
 ### Workflow

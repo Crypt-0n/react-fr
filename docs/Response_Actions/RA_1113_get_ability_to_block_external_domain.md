@@ -1,11 +1,11 @@
-| Title                       | Obtenir la possibilité de bloquer un domaine externe         |
+| Titre                       | Obtenir la possibilité de bloquer un domaine externe         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1113            |
 | **Description**             | Make sure you have the ability to block an external domain name from being accessed by corporate assets   |
-| **Author**                  | @atc_project        |
+| **Auteur**                  | @atc_project        |
 | **Creation Date**           | 06.05.2020 |
-| **Category**                | Network      |
-| **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
+| **Catégorie**                | Network      |
+| **Étapes**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
 | **References** |<ul><li>[https://en.wikipedia.org/wiki/DNS_sinkhole](https://en.wikipedia.org/wiki/DNS_sinkhole)</li></ul>|
 | **Requirements** |<ul><li>MS_border_proxy</li><li>MS_border_ips</li><li>MS_border_ngfw</li><li>MS_dns_server</li></ul>|
 

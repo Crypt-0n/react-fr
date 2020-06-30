@@ -1,11 +1,11 @@
-| Title                       | Collecter le fichier         |
+| Titre                       | Collecter le fichier         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2311            |
 | **Description**             | Collect a specific file from a (remote) host or a system   |
-| **Author**                  | your name/nickname/twitter        |
+| **Auteur**                  | your name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
-| **Category**                | File      |
-| **Stage**                   |[RS0002: Identification](../Response_Stages/RS0002.md)| 
+| **Catégorie**                | File      |
+| **Étapes**                   |[RS0002: Identification](../Response_Stages/RS0002.md)| 
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 | **Requirements** |<ul><li>DN_zeek_conn_log</li></ul>|
 

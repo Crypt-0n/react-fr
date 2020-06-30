@@ -1,6 +1,6 @@
-# Response Stages
+# Étapes de réponse
 
-| ID    | Name     | Description |
+| ID    | Nom     | Description |
 |:-----:|:--------:|-------------|
 | [RS0001](Response_Stages/RS0001.md) | [Préparation](Response_Stages/RS0001.md) | Get prepared for a security incident. |
 | [RS0002](Response_Stages/RS0002.md) | [Identification](Response_Stages/RS0002.md) | Gather information about a threat that has triggered a security incident, its TTPs, and affected assets. |

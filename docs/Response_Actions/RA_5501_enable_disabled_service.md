@@ -1,11 +1,11 @@
-| Title                       | Activer le service désactivé         |
+| Titre                       | Activer le service désactivé         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA5501            |
 | **Description**             | Enable a disabled service   |
-| **Author**                  | your name/nickname/twitter        |
+| **Auteur**                  | your name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
-| **Category**                | Configuration      |
-| **Stage**                   |[RS0005: Recovery](../Response_Stages/RS0005.md)| 
+| **Catégorie**                | Configuration      |
+| **Étapes**                   |[RS0005: Recovery](../Response_Stages/RS0005.md)| 
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 | **Requirements** |<ul><li>DN_zeek_conn_log</li></ul>|
 

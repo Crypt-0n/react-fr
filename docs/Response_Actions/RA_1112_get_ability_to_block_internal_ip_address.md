@@ -1,11 +1,11 @@
-| Title                       | Obtenir la possibilité de bloquer l'adresse IP interne         |
+| Titre                       | Obtenir la possibilité de bloquer l'adresse IP interne         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1112            |
 | **Description**             | Make sure you can block an internal IP address from being accessed by corporate assets   |
-| **Author**                  | your name/nickname/twitter        |
+| **Auteur**                  | your name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
-| **Category**                | Network      |
-| **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
+| **Catégorie**                | Network      |
+| **Étapes**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 | **Requirements** |<ul><li>MS_intranet_firewall</li><li>MS_intranet_proxy</li><li>MS_intranet_ips</li><li>MS_intranet_ngfw</li><li>MS_host_firewall</li></ul>|
 

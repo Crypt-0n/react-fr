@@ -1,11 +1,11 @@
-| Title                       | Débloquer le processus bloqué         |
+| Titre                       | Débloquer le processus bloqué         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA5401            |
 | **Description**             | Unblock a blocked process   |
-| **Author**                  | your name/nickname/twitter        |
+| **Auteur**                  | your name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
-| **Category**                | Process      |
-| **Stage**                   |[RS0005: Recovery](../Response_Stages/RS0005.md)| 
+| **Catégorie**                | Process      |
+| **Étapes**                   |[RS0005: Recovery](../Response_Stages/RS0005.md)| 
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 | **Requirements** |<ul><li>DN_zeek_conn_log</li></ul>|
 

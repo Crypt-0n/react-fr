@@ -1,10 +1,10 @@
-| Title             | E-mail malveillant                                                                                                      |
+| Titre             | E-mail malveillant                                                                                                      |
 |:-----------------:|:-----------------------------------------------------------------------------------------------------------------|
 | **ID**            | RP0001            |
 | **Description**   | Playbook de réponse pour le cas d'un courrier électronique malveillant   |
-| **Author**        | @atc_project        |
-| **Creation Date** | 31.01.2019 |
-| **Severity**      | M      |
+| **Auteur**        | @atc_project        |
+| **Date de création** | 31.01.2019 |
+| **Gravité**      | M      |
 | **TLP**           | AMBER           |
 | **PAP**           | WHITE           |
 | **ATT&amp;CK Tactic**  |<ul><li>[TA0001: Initial Access](https://attack.mitre.org/tactics/TA0001)</li></ul>|

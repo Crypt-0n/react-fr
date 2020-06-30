@@ -1,11 +1,11 @@
-| Title                       | Accéder aux journaux DNS externes         |
+| Titre                       | Accéder aux journaux DNS externes         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1106            |
 | **Description**             | Make sure you have access to external communication DNS logs   |
-| **Author**                  | @atc_project        |
+| **Auteur**                  | @atc_project        |
 | **Creation Date**           | 06.05.2020 |
-| **Category**                | Network      |
-| **Stage**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
+| **Catégorie**                | Network      |
+| **Étapes**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
 | **References** |<ul><li>[https://github.com/gamelinux/passivedns](https://github.com/gamelinux/passivedns)</li><li>[https://drive.google.com/drive/u/0/folders/0B5BuM3k0_mF3LXpnYVUtU091Vjg](https://drive.google.com/drive/u/0/folders/0B5BuM3k0_mF3LXpnYVUtU091Vjg)</li></ul>|
 | **Requirements** |<ul><li>MS_dns_server</li><li>DN_zeek_dns_log</li></ul>|
 
