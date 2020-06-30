@@ -1,7 +1,7 @@
 | Title                       | Accéder aux journaux de flux du réseau externe         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1101            |
-| **Description**             | Make sure you have access to external communication Network Flow logs   |
+| **Description**             | Assurez-vous d'avoir accès aux journaux de flux réseau de communication externe   |
 | **Author**                  | @atc_project        |
 | **Creation Date**           | 06.05.2020 |
 | **Category**                | Network      |
@@ -11,9 +11,9 @@
 
 ### Workflow
 
-Make sure that there is a collection of Network Flow logs for external communication (from corporate assets to the Internet) configured.  
-If there is no option to configure it on a network device, you can install a special software on each endpoint and collect it from them.  
+Assurez-vous qu'il existe une collection de journaux de flux réseau pour la communication externe (des actifs de l'entreprise à Internet) configurée.  
+S'il n'y a pas d'option pour le configurer sur un périphérique réseau, vous pouvez installer un logiciel spécial sur chaque point de terminaison et le collecter à partir d'eux.  
 
-Warning:  
+Attention :  
 
-- There is a feature called ["NetFlow Sampling"](https://www.plixer.com/blog/how-accurate-is-sampled-netflow/), that eliminates the value of the Network Flow logs for some of the tasks, such as "check if some host communicated to an external IP". Make sure it's disabled or you have an alternative way to collect Network Flow logs  
+- Il existe une fonctionnalité appelée ["NetFlow Sampling"](https://www.plixer.com/blog/how-accurate-is-sampled-netflow/), cela élimine la valeur des journaux de flux réseau pour certaines des tâches, telles que «vérifier si un hôte a communiqué avec une adresse IP externe». Assurez-vous qu'il est désactivé ou que vous avez un autre moyen de collecter les journaux de flux réseau.  

@@ -1,7 +1,7 @@
 title: RA_1104_accéder_aux_journaux_http_externes
 id: RA1104
 description: >
-  Make sure you have access to external communication HTTP logs
+  Assurez-vous d'avoir accès aux journaux de communication Web externe (HTTP)
 author: '@atc_project'
 creation_date: 06.05.2020
 stage: preparation
@@ -13,5 +13,5 @@ requirements:
   - MS_border_ngfw
   - DN_zeek_http_log
 workflow: |
-  Make sure that there is a collection of HTTP connections logs for external communication (from corporate assets to the Internet) configured.  
+  Assurez-vous qu'il existe une collection de journaux de connexions HTTP pour la communication externe (des actifs de l'entreprise à Internet) configurée.  
 

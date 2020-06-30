@@ -1,7 +1,7 @@
 | Title                       | S'exercer         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1001            |
-| **Description**             | Practice in the real environment. Sharpen Response Actions within your organization   |
+| **Description**             | Pratiquez dans l'environnement réel. Affiner les actions de réponse au sein de votre organisation   |
 | **Author**                  | @atc_project        |
 | **Creation Date**           | 08.04.2020 |
 | **Category**                | General      |
@@ -9,5 +9,5 @@
 
 ### Workflow
 
-Make sure that most of the Response Action has been performed on an internal exercise by your Incident Response Team.  
-You need to make sure that when an Incident will happen, the team will not just try to follow the playbooks they see first time in their lives, but will be able to quickly execute the actual steps in **your environment**, i.e. blocking an IP address or a domain name.  
+Assurez-vous que la plupart des actions de réponse ont été effectuées lors d'un exercice interne par votre équipe de réponse aux incidents.
+Vous devez vous assurer que lorsqu'un incident se produira, l'équipe n'essaiera pas seulement de suivre les manuels qu'elle voit pour la première fois de sa vie, mais sera en mesure d'exécuter rapidement les étapes réelles dans **votre environnement**, c'est-à-dire le blocage une adresse IP ou un nom de domaine.

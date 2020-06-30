@@ -28,30 +28,28 @@
 
 #### Preparation
 
-##### Practice in the real environment. Sharpen Response Actions within your organization
+##### Pratiquez dans l'environnement réel. Affiner les actions de réponse au sein de votre organisation
 
-Make sure that most of the Response Action has been performed on an internal exercise by your Incident Response Team.  
-You need to make sure that when an Incident will happen, the team will not just try to follow the playbooks they see first time in their lives, but will be able to quickly execute the actual steps in **your environment**, i.e. blocking an IP address or a domain name.  
+Assurez-vous que la plupart des actions de réponse ont été effectuées lors d'un exercice interne par votre équipe de réponse aux incidents.
+Vous devez vous assurer que lorsqu'un incident se produira, l'équipe n'essaiera pas seulement de suivre les manuels qu'elle voit pour la première fois de sa vie, mais sera en mesure d'exécuter rapidement les étapes réelles dans **votre environnement**, c'est-à-dire le blocage une adresse IP ou un nom de domaine.
 
-##### Take training courses to gain relevant knowledge
+##### Suivez des cours de formation pour acquérir des connaissances pertinentes
 
-> We do not rise to the level of our expectations. We fall to the level of our training.  
+Voici quelques cours de formation pertinents qui vous aideront dans les activités de réponse aux incidents :  
 
-Here are some relevant training courses that will help you in the Incident Response activities:  
+1. [Investigation Theory](https://chrissanders.org/training/investigationtheory/) par Chris Sanders. Nous vous recommandons de l'avoir comme une formation obligatoire pour chaque membre de votre équipe de réponse aux incidents  
+2. Formations [Offensive Security](https://www.offensive-security.com/courses-and-certifications/). Nous recommandons [PWK](https://www.offensive-security.com/pwk-oscp/) pour commencer  
+3. Formations [SANS Digital Forensics & Incident Response](https://digital-forensics.sans.org/training/courses)   
 
-1. [Investigation Theory](https://chrissanders.org/training/investigationtheory/) by Chris Sanders. We recommend you to have it as a mandatory training for every member of your Incident Response team  
-2. [Offensive Security](https://www.offensive-security.com/courses-and-certifications/) trainings. We recommend [PWK](https://www.offensive-security.com/pwk-oscp/) to begin with  
-3. [SANS Digital Forensics & Incident Response](https://digital-forensics.sans.org/training/courses) trainings  
+Les formations Offensive Security sont dans la liste car pour combattre une menace, vous devez comprendre leur motivation, leurs tactiques et leurs techniques.. 
 
-Offensive Security trainings are in the list because to fight a threat, you need to understand their motivation, tactics, and techniques.  
+Dans le même temps, nous supposons que vous avez déjà une solide expérience technique dans les disciplines fondamentales - Réseaux, Systèmes d'exploitation et Programmation.  
 
-At the same time, we assume that you already have a strong technical background in fundamental disciplines — Networking, Operating Systems, and Programming.  
-
-##### Make sure that personnel will report suspicious activity i.e. suspicious emails,  links, files, activity on their computers, etc
+##### Assurez-vous que le personnel signalera une activité suspecte, c'est-à-dire des e-mails suspects, des liens, des fichiers, des activités sur leurs ordinateurs, etc.
 
 
-Develop a simplified, company wide-known way to contact IR team in case of suspicious activity on the user system.  
-Make sure that the personnel is aware of it, can and will use it.  
+Développez un moyen simplifié et bien connu de l'entreprise de contacter l'équipe de réponse à incident en cas d'activité suspecte sur le système utilisateur.  
+Assurez-vous que le personnel en est conscient, qu'il peut et qu'il l'utilisera.  
 
 ##### Raise personnel awareness regarding phishing, ransomware, social engineering,  and other attacks that involve user interaction
 
@@ -59,20 +57,20 @@ Make sure that the personnel is aware of it, can and will use it.
 Train users to to be aware of access or manipulation attempts by an adversary to reduce the risk of 
 successful spearphishing, social engineering, and other techniques that involve user interaction.
 
-##### Make sure you have access to external communication Network Flow logs
+##### Assurez-vous d'avoir accès aux journaux de flux réseau de communication externe
 
 
-Make sure that there is a collection of Network Flow logs for external communication (from corporate assets to the Internet) configured.  
-If there is no option to configure it on a network device, you can install a special software on each endpoint and collect it from them.  
+Assurez-vous qu'il existe une collection de journaux de flux réseau pour la communication externe (des actifs de l'entreprise à Internet) configurée.  
+S'il n'y a pas d'option pour le configurer sur un périphérique réseau, vous pouvez installer un logiciel spécial sur chaque point de terminaison et le collecter à partir d'eux.  
 
-Warning:  
+Attention :  
 
-- There is a feature called ["NetFlow Sampling"](https://www.plixer.com/blog/how-accurate-is-sampled-netflow/), that eliminates the value of the Network Flow logs for some of the tasks, such as "check if some host communicated to an external IP". Make sure it's disabled or you have an alternative way to collect Network Flow logs  
+- Il existe une fonctionnalité appelée ["NetFlow Sampling"](https://www.plixer.com/blog/how-accurate-is-sampled-netflow/), cela élimine la valeur des journaux de flux réseau pour certaines des tâches, telles que «vérifier si un hôte a communiqué avec une adresse IP externe». Assurez-vous qu'il est désactivé ou que vous avez un autre moyen de collecter les journaux de flux réseau.  
 
-##### Make sure you have access to external communication HTTP logs
+##### Assurez-vous d'avoir accès aux journaux de communication Web externe (HTTP)
 
 
-Make sure that there is a collection of HTTP connections logs for external communication (from corporate assets to the Internet) configured.  
+Assurez-vous qu'il existe une collection de journaux de connexions HTTP pour la communication externe (des actifs de l'entreprise à Internet) configurée.  
 
 ##### Make sure you have access to external communication DNS logs
 

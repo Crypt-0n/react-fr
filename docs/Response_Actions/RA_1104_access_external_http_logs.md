@@ -1,7 +1,7 @@
 | Title                       | Accéder aux journaux HTTP externes         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1104            |
-| **Description**             | Make sure you have access to external communication HTTP logs   |
+| **Description**             | Assurez-vous d'avoir accès aux journaux de communication Web externe (HTTP)   |
 | **Author**                  | @atc_project        |
 | **Creation Date**           | 06.05.2020 |
 | **Category**                | Network      |
@@ -11,4 +11,4 @@
 
 ### Workflow
 
-Make sure that there is a collection of HTTP connections logs for external communication (from corporate assets to the Internet) configured.  
+Assurez-vous qu'il existe une collection de journaux de connexions HTTP pour la communication externe (des actifs de l'entreprise à Internet) configurée.  

@@ -1,7 +1,7 @@
 | Title                       | Obliger le personnel à signaler une activité suspecte         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1004            |
-| **Description**             | Make sure that personnel will report suspicious activity i.e. suspicious emails,  links, files, activity on their computers, etc   |
+| **Description**             | Assurez-vous que le personnel signalera une activité suspecte, c'est-à-dire des e-mails suspects, des liens, des fichiers, des activités sur leurs ordinateurs, etc.   |
 | **Author**                  | @atc_project        |
 | **Creation Date**           | 06.05.2020 |
 | **Category**                | General      |
@@ -9,5 +9,5 @@
 
 ### Workflow
 
-Develop a simplified, company wide-known way to contact IR team in case of suspicious activity on the user system.  
-Make sure that the personnel is aware of it, can and will use it.  
+Développez un moyen simplifié et bien connu de l'entreprise de contacter l'équipe de réponse à incident en cas d'activité suspecte sur le système utilisateur.  
+Assurez-vous que le personnel en est conscient, qu'il peut et qu'il l'utilisera.  
