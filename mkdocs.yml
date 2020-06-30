@@ -1,4 +1,4 @@
-site_name: RE&CT
+site_name: RE&CT-FR
 site_dir: site/
 docs_dir: docs/
 
@@ -11,7 +11,6 @@ theme:
 
 repo_url: https://github.com/atc-project/atc-react
 edit_uri: blob/master/docs/
-google_analytics: ['UA-165240552-2', 'https://atc-project.github.io/atc-react/']
 
 plugins:
     - awesome-pages
@@ -23,11 +22,12 @@ plugins:
             - "thehive_templates"
 nav:
     - Introduction:
-        - RE&CT Framework (EN): index.md
+        - RE&CT Framework (FR): index.md
+        - RE&CT Framework (EN): index_EN.md
         - RE&CT Framework (RU): index_RU.md
-        - Response Stages: responsestages.md
-    - Response Actions:
-        - Preparation:
+        - Étapes de réponse: responsestages.md
+    - Actions de réponse:
+        - Préparation:
             - "RA1001: Practice": ./Response_Actions/RA_1001_practice.md
             - "RA1002: Take trainings": ./Response_Actions/RA_1002_take_trainings.md
             - "RA1003: Raise personnel awareness": ./Response_Actions/RA_1003_raise_personnel_awareness.md
@@ -191,7 +191,7 @@ nav:
             - "RA2507: List services deleted": ./Response_Actions/RA_2507_list_services_deleted.md
             - "RA2508: Analyse registry key": ./Response_Actions/RA_2508_analyse_registry_key.md
             - "RA2601: List users authenticated": ./Response_Actions/RA_2601_list_users_authenticated.md
-        - Containment:
+        - Endiguement:
             - "RA3001: Patch vulnerability": ./Response_Actions/RA_3001_patch_vulnerability.md
             - "RA3101: Block external IP address": ./Response_Actions/RA_3101_block_external_ip_address.md
             - "RA3102: Block internal IP address": ./Response_Actions/RA_3102_block_internal_ip_address.md
@@ -218,7 +218,7 @@ nav:
             - "RA3405: Block process by executable content pattern": ./Response_Actions/RA_3405_block_process_by_executable_content_pattern.md
             - "RA3501: Disable system service": ./Response_Actions/RA_3501_disable_system_service.md
             - "RA3601: Lock user account": ./Response_Actions/RA_3601_lock_user_account.md
-        - Eradication:
+        - Éradication:
             - "RA4001: Report incident to external companies": ./Response_Actions/RA_4001_report_incident_to_external_companies.md
             - "RA4101: Remove rogue network device": ./Response_Actions/RA_4101_remove_rogue_network_device.md
             - "RA4201: Delete email message": ./Response_Actions/RA_4201_delete_email_message.md
@@ -227,7 +227,7 @@ nav:
             - "RA4502: Remove service": ./Response_Actions/RA_4502_remove_service.md
             - "RA4601: Revoke authentication credentials": ./Response_Actions/RA_4601_revoke_authentication_credentials.md
             - "RA4602: Remove user account": ./Response_Actions/RA_4602_remove_user_account.md
-        - Recovery:
+        - Recouvrement:
             - "RA5001: Reinstall host from golden image": ./Response_Actions/RA_5001_reinstall_host_from_golden_image.md
             - "RA5002: Restore data from backup": ./Response_Actions/RA_5002_restore_data_from_backup.md
             - "RA5101: Unblock blocked IP": ./Response_Actions/RA_5101_unblock_blocked_ip.md
@@ -242,8 +242,8 @@ nav:
             - "RA5401: Unblock blocked process": ./Response_Actions/RA_5401_unblock_blocked_process.md
             - "RA5501: Enable disabled service": ./Response_Actions/RA_5501_enable_disabled_service.md
             - "RA5601: Unlock locked user account": ./Response_Actions/RA_5601_unlock_locked_user_account.md
-        - Lessons learned:
+        - Retour d'expérience:
             - "RA6001: Develop incident report": ./Response_Actions/RA_6001_develop_incident_report.md
             - "RA6002: Conduct lessons learned exercise": ./Response_Actions/RA_6002_conduct_lessons_learned_exercise.md
-    - Response Playbooks:
+    - Playbooks de réponse:
         - "RP0001: Phishing email": ./Response_Playbooks/RP_0001_phishing_email.md

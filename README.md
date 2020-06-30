@@ -15,7 +15,7 @@ The project represents the following:
 The RE&CT Framework is designed for accumulating, describing and classification actionable Incident Response techniques. 
 
 RE&CT's philosophy is based on the [MITRE's ATT&CK](https://attack.mitre.org/) framework.  
-The columns represent [Response Stages](https://atc-project.github.io/atc-react/responsestages/).  
+The columns represent [Response Stages](https://crypt-0n.github.io/react-fr/responsestages).  
 The cells repsresent [Response Actions](#response-action).  
 
 ![](docs/images/react_navigator_export_v5.svg)

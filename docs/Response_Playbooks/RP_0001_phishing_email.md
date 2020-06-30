@@ -19,10 +19,10 @@
 
 ### Workflow
  
-1. Execute Response Actions step by step. Some of them directly connected, which means you will not be able to move forward not finishing the previous step. Some of them are redundant, as those that are related to the blocking a threat using network filtering systems (containment stage)
-2. Start executing containment and eradication stages concurrently with next identification steps, as soon as you will receive information about malicious hosts
-3. If phishing led to code execution or remote access to victim host, immediately start executing Generic Post Exploitation Incident Response Playbook
-4. Save all timestamps of implemented actions in Incident Report draft on the fly, it will save a lot of time
+1. Exécutez les actions de réponse étape par étape. Certains d'entre eux sont directement connectés, ce qui signifie que vous ne pourrez pas avancer sans terminer l'étape précédente. Certains d'entre eux sont redondants, comme ceux qui sont liés au blocage d'une menace à l'aide de systèmes de filtrage réseau (étape de confinement)
+2. Commencez à exécuter les étapes de confinement et d'éradication simultanément avec les prochaines étapes d'identification, dès que vous recevrez des informations sur les hôtes malveillants
+3. Si l'hameçonnage a conduit à l'exécution de code ou à l'accès à distance à l'hôte victime, commencez immédiatement à exécuter le Playbook de réponse aux incidents de post-exploitation générique
+4. Enregistrez tous les horodatages des actions mises en œuvre dans le projet de rapport d'incident à la volée, cela vous fera gagner beaucoup de temps
 
 
 
