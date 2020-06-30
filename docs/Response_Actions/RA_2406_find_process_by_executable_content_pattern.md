@@ -1,4 +1,4 @@
-| Title                       | Find process by executable content pattern         |
+| Title                       | Rechercher un processus par modèle de contenu de l'exécutable         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2406            |
 | **Description**             | Find a process that is being executed at the moment or at a particular time in the past by its executable content (i.e. specific string, keyword, binary pattern etc)   |

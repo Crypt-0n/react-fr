@@ -1,4 +1,4 @@
-| Title                       | Find process by executable hash         |
+| Title                       | Rechercher un processus par le hash de l'exécutable         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2404            |
 | **Description**             | Find a process that is being executed at the moment or at a particular time in the past by its executable hash   |

@@ -1,4 +1,4 @@
-| Title                       | List services modified         |
+| Title                       | Lister les services modifiés         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2506            |
 | **Description**             | List services that have been modified at a particular time in the past   |

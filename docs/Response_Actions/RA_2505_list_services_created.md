@@ -1,4 +1,4 @@
-| Title                       | List services created         |
+| Title                       | Lister les services créés         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2505            |
 | **Description**             | List services that have been created at a particular time in the past   |

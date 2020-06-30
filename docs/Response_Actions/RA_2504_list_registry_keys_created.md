@@ -1,4 +1,4 @@
-| Title                       | List registry keys created         |
+| Title                       | Lister les clés de registre créées         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2504            |
 | **Description**             | List registry keys that have been created at a particular time in the past   |

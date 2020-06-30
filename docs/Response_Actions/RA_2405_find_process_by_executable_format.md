@@ -1,4 +1,4 @@
-| Title                       | Find process by executable format         |
+| Title                       | Rechercher un processus par le format de l'exécutable         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2405            |
 | **Description**             | Find a process that is being executed at the moment or at a particular time in the past by its executable format   |

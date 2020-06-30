@@ -1,4 +1,4 @@
-| Title                       | Find process by executable path         |
+| Title                       | Rechercher un processus exécutable via son chemin         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2402            |
 | **Description**             | Find a process that is being executed at the moment or at a particular time in the past by its executable path (including its name)   |

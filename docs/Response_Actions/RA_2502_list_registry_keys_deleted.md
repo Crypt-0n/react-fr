@@ -1,4 +1,4 @@
-| Title                       | List registry keys deleted         |
+| Title                       | Lister les clés de registre supprimées         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2502            |
 | **Description**             | List registry keys that have been deleted at a particular time in the past   |

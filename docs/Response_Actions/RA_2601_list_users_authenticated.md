@@ -1,4 +1,4 @@
-| Title                       | List users authenticated         |
+| Title                       | Répertorier les utilisateurs authentifiés         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2601            |
 | **Description**             | List users authenticated at a particular time in the past on a particular system   |

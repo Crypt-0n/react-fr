@@ -1,4 +1,4 @@
-| Title                       | List registry keys modified         |
+| Title                       | Lister les clés de registre modifiées         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2501            |
 | **Description**             | List registry keys modified at a particular time in the past   |

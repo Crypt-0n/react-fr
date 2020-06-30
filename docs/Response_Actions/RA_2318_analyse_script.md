@@ -1,4 +1,4 @@
-| Title                       | Analyse script         |
+| Title                       | Analyser un script         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2318            |
 | **Description**             | Analyse a script file (i.e. Python, PowerShell, Bash scripts etc)   |

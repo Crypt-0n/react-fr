@@ -1,4 +1,4 @@
-| Title                       | Analyse filename         |
+| Title                       | Analyser le nom de fichier         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2320            |
 | **Description**             | Analyse a filename   |

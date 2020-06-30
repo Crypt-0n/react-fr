@@ -1,4 +1,4 @@
-| Title                       | List processes executed         |
+| Title                       | Lister les processus exécutés         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2401            |
 | **Description**             | List processes being executed at the moment or at a particular time in the past   |

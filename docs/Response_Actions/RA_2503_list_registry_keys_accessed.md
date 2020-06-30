@@ -1,4 +1,4 @@
-| Title                       | List registry keys accessed         |
+| Title                       | Lister les clés de registre accédées         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2503            |
 | **Description**             | List registry keys that have been accessed at a particular time in the past   |

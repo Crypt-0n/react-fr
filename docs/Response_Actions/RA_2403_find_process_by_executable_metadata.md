@@ -1,4 +1,4 @@
-| Title                       | Find process by executable metadata         |
+| Title                       | Rechercher un processus exécutables par métadonnées         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2403            |
 | **Description**             | Find a process that is being executed at the moment or at a particular time in the past by its executable metadata (i.e. signature, permissions, MAC times)   |

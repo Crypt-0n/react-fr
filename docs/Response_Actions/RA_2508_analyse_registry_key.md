@@ -1,4 +1,4 @@
-| Title                       | Analyse registry key         |
+| Title                       | Analyser la clé de registre         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2508            |
 | **Description**             | Analyse a registry key   |

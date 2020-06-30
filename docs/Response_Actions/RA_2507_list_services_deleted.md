@@ -1,4 +1,4 @@
-| Title                       | List services deleted         |
+| Title                       | Lister les services supprimés         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2507            |
 | **Description**             | List services that have been deleted at a particular time in the past   |
