@@ -26,7 +26,7 @@ The main resources:
 
 | Preparation                                                   | Identification                                     | Containment                                    | Eradication                                 | Recovery                                | Lessons Learned                        |
 |:-------------------------------------------------------------:|:--------------------------------------------------:|:----------------------------------------------:|:-------------------------------------------:|:---------------------------------------:|:--------------------------------------:|
-| [RA1001: S'exercer]                                                | [List victims of security alert*]                  | [Patch vulnerability*]                         | [**Report incident to external companies**] | [Reinstall host from golden image*]     | [**Develop incident report**]          |
+| [**RA1001: S'exercer**]                                                | [List victims of security alert*]                  | [Patch vulnerability*]                         | [**Report incident to external companies**] | [Reinstall host from golden image*]     | [**Develop incident report**]          |
 | [**Take trainings**]                                          | [List host vulnerabilities*]                       | [**Block external IP address**]                | [Remove rogue network device*]              | [Restore data from backup*]             | [**Conduct lessons learned exercise**] |
 | [**Raise personnel awareness**]                               | [**Put compromised accounts on monitoring**]       | [**Block internal IP address**]                | [**Delete email message**]                  | [**Unblock blocked IP**]                |                                        |
 | [**Make personnel report suspicious activity**]               | [List hosts communicated with internal domain*]    | [**Block external domain**]                    | [Remove file*]                              | [**Unblock blocked domain**]            |                                        |
@@ -132,7 +132,7 @@ The main resources:
 <br>
 
 
-[RA1001: S'exercer*]: Response_Actions/RA_1001_practice.md
+[**RA1001: S'exercer**]: Response_Actions/RA_1001_practice.md
 [RA1002: Suivre des formations*]: Response_Actions/RA_1002_take_trainings.md
 [RA1003: Sensibiliser le personnel*]: Response_Actions/RA_1003_raise_personnel_awareness.md
 [RA1004: Obliger le personnel à signaler une activité suspecte*]: Response_Actions/RA_1004_make_personnel_report_suspicious_activity.md
