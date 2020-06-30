@@ -1,4 +1,4 @@
-title: RA_3402_block_process_by_executable_metadata
+title: RA_3402_bloquer_le_processus_par_des_métadonnées_exécutables
 id: RA3402
 description: >
   Block a process execution by its executable metadata (i.e. signature, permissions, MAC times)

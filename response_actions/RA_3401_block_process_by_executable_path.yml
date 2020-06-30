@@ -1,4 +1,4 @@
-title: RA_3401_block_process_by_executable_path
+title: RA_3401_bloquer_le_processus_par_un_chemin_exécutable
 id: RA3401
 description: >
   Block a process execution by its executable path (including its name)

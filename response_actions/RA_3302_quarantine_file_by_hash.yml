@@ -1,4 +1,4 @@
-title: RA_3302_quarantine_file_by_hash
+title: RA_3302_mise_en_quarantaine_d'un_fichier_en_fonction_du_hash
 id: RA3302
 description: >
   Quarantine a file by its hash

@@ -1,4 +1,4 @@
-title: RA_3403_block_process_by_executable_hash
+title: RA_3403_bloquer_l'execution_de_processus_par_le_hash
 id: RA3403
 description: >
   Block a process execution by its executable hash
