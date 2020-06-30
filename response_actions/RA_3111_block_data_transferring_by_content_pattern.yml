@@ -1,4 +1,4 @@
-title: RA_3111_bloquer_le_transfert_de_données_par_modèle_de_contenu
+title: RA_3111_bloquer_le_transfert_de_données_par_contenu
 id: RA3111
 description: >
   Block data transferring by its content pattern (i.e. specific string, keyword, binary pattern etc)

@@ -1,4 +1,4 @@
-| Title                       | Rechercher des données transférées par modèle de contenu         |
+| Title                       | Rechercher des données transférées par contenu         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA2116            |
 | **Description**             | Find the data that is being transferred at the moment or at a particular time in the past by its content pattern (i.e. specific string, keyword, binary pattern etc)   |

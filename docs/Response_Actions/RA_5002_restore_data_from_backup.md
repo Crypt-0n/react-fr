@@ -1,4 +1,4 @@
-| Title                       | Restore data from backup         |
+| Title                       | Restaurer les données à partir de la sauvegarde         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA5002            |
 | **Description**             | Restore data from a backup   |

@@ -1,4 +1,4 @@
-| Title                       | Rechercher des données transférées par modèle de contenu         |
+| Title                       | Rechercher des données transférées par contenu         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1126            |
 | **Description**             | Make sure you have the ability to find the data that is being transferred at the moment or at a particular time in the past by its content pattern   |

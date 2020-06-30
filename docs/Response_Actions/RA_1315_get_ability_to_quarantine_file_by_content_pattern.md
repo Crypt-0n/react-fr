@@ -1,4 +1,4 @@
-| Title                       | Obtenir la possibilité de mettre le fichier en quarantaine par modèle de contenu         |
+| Title                       | Obtenir la possibilité de mettre le fichier en quarantaine par contenu         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1315            |
 | **Description**             | Make sure you have the ability to block a file from being accessed by its content pattern (i.e. specific string, keyword, binary pattern etc)   |

@@ -1,4 +1,4 @@
-| Title                       | Remove registry key         |
+| Title                       | Supprimer la clé de registre         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA4501            |
 | **Description**             | Remove a registry key   |

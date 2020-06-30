@@ -1,4 +1,4 @@
-| Title                       | Block data transferring by content pattern         |
+| Title                       | Bloquer le transfert de données par contenu         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA3111            |
 | **Description**             | Block data transferring by its content pattern (i.e. specific string, keyword, binary pattern etc)   |

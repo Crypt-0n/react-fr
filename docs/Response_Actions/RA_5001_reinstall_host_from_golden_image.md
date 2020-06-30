@@ -1,4 +1,4 @@
-| Title                       | Reinstall host from golden image         |
+| Title                       | Réinstaller l'hôte à partir d'une image propre         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA5001            |
 | **Description**             | Reinstall host OS from a golden image   |

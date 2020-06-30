@@ -1,4 +1,4 @@
-| Title                       | Block process by executable path         |
+| Title                       | Bloquer le processus par un chemin exécutable         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA3401            |
 | **Description**             | Block a process execution by its executable path (including its name)   |

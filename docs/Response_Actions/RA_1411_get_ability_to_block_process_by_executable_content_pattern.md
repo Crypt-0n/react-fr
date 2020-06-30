@@ -1,4 +1,4 @@
-| Title                       | Obtenir la possibilité de bloquer le processus par le modèle de contenu de l'exécutable         |
+| Title                       | Obtenir la possibilité de bloquer le processus par le contenu de l'exécutable         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1411            |
 | **Description**             | Make sure you have the ability to block process by its executable content pattern (i.e. specific string, keyword, binary pattern etc)   |

@@ -1,4 +1,4 @@
-| Title                       | Restore quarantined file         |
+| Title                       | Restaurer le fichier en quarantaine         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA5301            |
 | **Description**             | Restore a quarantined file   |

@@ -1,4 +1,4 @@
-| Title                       | Remove service         |
+| Title                       | Supprimer le service         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA4502            |
 | **Description**             | Remove a service   |

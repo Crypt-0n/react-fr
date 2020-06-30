@@ -1,4 +1,4 @@
-| Title                       | Block process by executable metadata         |
+| Title                       | Bloquer le processus par des métadonnées exécutables         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA3402            |
 | **Description**             | Block a process execution by its executable metadata (i.e. signature, permissions, MAC times)   |

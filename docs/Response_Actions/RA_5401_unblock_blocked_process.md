@@ -1,4 +1,4 @@
-| Title                       | Unblock blocked process         |
+| Title                       | Débloquer le processus bloqué         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA5401            |
 | **Description**             | Unblock a blocked process   |

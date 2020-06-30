@@ -1,4 +1,4 @@
-title: RA_2310_rechercher_un_fichier_par_modèle_de_contenu
+title: RA_2310_rechercher_un_fichier_par_contenu
 id: RA2310
 description: >
   Find a file by its content pattern (i.e. specific string, keyword, binary pattern etc)

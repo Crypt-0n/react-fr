@@ -1,4 +1,4 @@
-| Title                       | Remove user account         |
+| Title                       | Supprimer le compte utilisateur         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA4602            |
 | **Description**             | Remove a user account   |

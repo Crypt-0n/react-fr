@@ -1,4 +1,4 @@
-| Title                       | Quarantine file by format         |
+| Title                       | Mettre en quarantaine un fichier en fonction du format         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA3301            |
 | **Description**             | Quarantine a file by its format   |

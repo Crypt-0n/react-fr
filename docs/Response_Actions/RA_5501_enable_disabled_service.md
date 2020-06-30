@@ -1,4 +1,4 @@
-| Title                       | Enable disabled service         |
+| Title                       | Activer le service désactivé         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA5501            |
 | **Description**             | Enable a disabled service   |

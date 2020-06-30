@@ -1,4 +1,4 @@
-| Title                       | Obtenir la possibilité de bloquer le transfert de données par modèle de contenu         |
+| Title                       | Obtenir la possibilité de bloquer le transfert de données par contenu         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA1122            |
 | **Description**             | Make sure you have the ability to block data transferring by its content pattern (i.e. specific string, keyword, binary pattern etc)   |

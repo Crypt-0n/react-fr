@@ -1,4 +1,4 @@
-| Title                       | Block port internal communication         |
+| Title                       | Bloquer le port de communication interne         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA3108            |
 | **Description**             | Block a network port for internal communications   |

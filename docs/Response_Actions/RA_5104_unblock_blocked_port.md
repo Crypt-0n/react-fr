@@ -1,4 +1,4 @@
-| Title                       | Unblock blocked port         |
+| Title                       | Débloquer le port bloqué         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA5104            |
 | **Description**             | Unblock a blocked port   |

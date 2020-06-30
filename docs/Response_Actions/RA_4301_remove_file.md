@@ -1,4 +1,4 @@
-| Title                       | Remove file         |
+| Title                       | Effacer le fichier         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA4301            |
 | **Description**             | Remove a specific file from a (remote) host or a system   |

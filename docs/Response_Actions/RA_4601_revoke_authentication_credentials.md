@@ -1,4 +1,4 @@
-| Title                       | Revoke authentication credentials         |
+| Title                       | Révoquer les informations d'authentification         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA4601            |
 | **Description**             | Revoke authentication credentials   |

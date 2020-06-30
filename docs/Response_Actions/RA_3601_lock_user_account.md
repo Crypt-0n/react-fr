@@ -1,4 +1,4 @@
-| Title                       | Lock user account         |
+| Title                       | Verrouiller le compte utilisateur         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA3601            |
 | **Description**             | Lock an user account   |

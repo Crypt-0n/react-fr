@@ -1,4 +1,4 @@
-| Title                       | Block process by executable content pattern         |
+| Title                       | Bloquer l'execution de processus par le contenu         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA3405            |
 | **Description**             | Block a process execution by its executable content pattern (i.e. specific string, keyword, binary pattern etc)   |

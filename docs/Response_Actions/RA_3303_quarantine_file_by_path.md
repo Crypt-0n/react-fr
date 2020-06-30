@@ -1,4 +1,4 @@
-| Title                       | Quarantine file by path         |
+| Title                       | Mise en quarantaine d'un fichier en fonction du chemin         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA3303            |
 | **Description**             | Quarantine a file by its path   |

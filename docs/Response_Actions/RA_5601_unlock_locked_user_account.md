@@ -1,4 +1,4 @@
-| Title                       | Unlock locked user account         |
+| Title                       | Déverrouiller le compte utilisateur verrouillé         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA5601            |
 | **Description**             | Unlock a locked user account   |

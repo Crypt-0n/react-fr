@@ -1,4 +1,4 @@
-| Title                       | Disable system service         |
+| Title                       | Désactiver le service système         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA3501            |
 | **Description**             | Disable a system service   |

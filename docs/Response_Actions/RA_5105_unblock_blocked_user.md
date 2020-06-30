@@ -1,4 +1,4 @@
-| Title                       | Unblock blocked user         |
+| Title                       | Débloquer l'utilisateur bloqué         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA5105            |
 | **Description**             | Unblock a blocked user   |

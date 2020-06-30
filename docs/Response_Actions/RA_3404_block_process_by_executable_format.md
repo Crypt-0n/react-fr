@@ -1,4 +1,4 @@
-| Title                       | Block process by executable format         |
+| Title                       | Bloquer l'execution de processus par le format         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA3404            |
 | **Description**             | Block a process execution by its executable format   |

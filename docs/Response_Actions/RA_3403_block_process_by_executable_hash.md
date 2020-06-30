@@ -1,4 +1,4 @@
-| Title                       | Block process by executable hash         |
+| Title                       | Bloquer l'execution de processus par le hash         |
 |:---------------------------:|:--------------------|
 | **ID**                      | RA3403            |
 | **Description**             | Block a process execution by its executable hash   |
