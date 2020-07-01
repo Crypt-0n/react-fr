@@ -3,7 +3,7 @@ id: RA4201
 description: Delete an email message from an Email Server and users' email boxes
 author: '@atc_project'
 creation_date: 31.01.2019
-stage: Éradication
+stage: eradication
 requirements:
   - MS_email_server
 workflow: |

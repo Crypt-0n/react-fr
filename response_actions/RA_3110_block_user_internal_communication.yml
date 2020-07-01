@@ -4,7 +4,7 @@ description: >
   Block a user for internal communications
 author: '@atc_project'
 creation_date: 31.01.2019
-stage: Endiguement
+stage: containment
 requirements:
   - MS_intranet_proxy
   - MS_intranet_ips

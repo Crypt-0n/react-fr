@@ -3,7 +3,7 @@ id: RA2205
 description: Extract observables from an email message
 author: '@atc_project'
 creation_date: 31.01.2019
-stage: Identification
+stage: identification
 automation:
   - thehive
 references: 

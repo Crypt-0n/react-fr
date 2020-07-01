@@ -4,7 +4,7 @@ description: >
   Make sure you have access to internal communication HTTP logs
 author: your name/nickname/twitter
 creation_date: DD.MM.YYYY
-stage: Préparation
+stage: preparation
 references:
   - https://example.com
 requirements:

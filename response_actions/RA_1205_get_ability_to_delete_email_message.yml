@@ -4,7 +4,7 @@ description: >
   Make sure you have the ability to delete an email message
 author: '@atc_project'
 creation_date: 07.05.2020
-stage: Préparation
+stage: preparation
 references:
   - https://docs.microsoft.com/en-us/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization?view=o365-worldwide
   - https://support.google.com/a/answer/7581662?hl=en

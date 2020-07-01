@@ -3,7 +3,7 @@ id: RA2003
 description: Put (potentially) compromised accounts on monitoring
 author: '@atc_project'
 creation_date: 31.01.2019
-stage: Identification
+stage: identification
 workflow: |
   Start monitoring for authentification attempts and all potentially harmful actions from (potentially) compromised accounts.  
   Look for anomalies, unusual network connections, unusual geolocation/time of work, actions that were never executed before.  

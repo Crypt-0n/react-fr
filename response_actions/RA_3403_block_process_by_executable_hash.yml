@@ -4,7 +4,7 @@ description: >
   Block a process execution by its executable hash
 author: your name/nickname/twitter
 creation_date: DD.MM.YYYY
-stage: Endiguement
+stage: containment
 references:
   - https://example.com
 requirements:

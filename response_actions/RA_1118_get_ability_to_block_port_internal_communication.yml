@@ -4,7 +4,7 @@ description: >
   Make sure you can block a network port for internal communications
 author: your name/nickname/twitter
 creation_date: DD.MM.YYYY
-stage: Préparation
+stage: preparation
 references:
   - https://example.com
 requirements:

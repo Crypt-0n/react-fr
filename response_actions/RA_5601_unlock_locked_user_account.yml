@@ -4,7 +4,7 @@ description: >
   Unlock a locked user account
 author: your name/nickname/twitter
 creation_date: DD.MM.YYYY
-stage: Recouvrement
+stage: recovery
 references:
   - https://example.com
 requirements:

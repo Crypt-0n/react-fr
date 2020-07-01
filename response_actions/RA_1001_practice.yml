@@ -3,7 +3,7 @@ id: RA1001
 description: Pratiquez dans l'environnement réel. Affiner les actions de réponse au sein de votre organisation
 author: '@atc_project'
 creation_date: 08.04.2020
-stage: Préparation
+stage: preparation
 workflow: |
   Assurez-vous que la plupart des actions de réponse ont été effectuées lors d'un exercice interne par votre équipe de réponse aux incidents.
   Vous devez vous assurer que lorsqu'un incident se produira, l'équipe n'essaiera pas seulement de suivre les manuels qu'elle voit pour la première fois de sa vie, mais sera en mesure d'exécuter rapidement les étapes réelles dans **votre environnement**, c'est-à-dire le blocage une adresse IP ou un nom de domaine.

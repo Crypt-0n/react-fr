@@ -6,7 +6,7 @@ description: >
   Unblock a blocked process
 author: your name/nickname/twitter
 creation_date: DD.MM.YYYY
-stage: Recouvrement
+stage: recovery
 references:
   - https://example.com
 requirements:

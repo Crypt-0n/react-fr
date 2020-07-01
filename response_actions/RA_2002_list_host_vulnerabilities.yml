@@ -4,7 +4,7 @@ description: >
   Get information about a specific host existing vulnerabilities, or about vulnerabilities it had at a particular time in the past
 author: your name/nickname/twitter
 creation_date: DD.MM.YYYY
-stage: Identification
+stage: identification
 automation:
   - thehive/phantom/demisto/etc
 references:

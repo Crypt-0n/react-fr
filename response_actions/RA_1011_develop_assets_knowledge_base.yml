@@ -4,7 +4,7 @@ description: >
   Develop assets knowledge base. It will help you to compare observed activity with a normal activity profile for a specific host, user or network segment
 author: your name/nickname/twitter
 creation_date: DD.MM.YYYY
-stage: Préparation
+stage: preparation
 automation:
   - thehive/phantom/demisto/etc
 references:

@@ -3,7 +3,7 @@ id: RA1002
 description: Suivez des cours de formation pour acquérir des connaissances pertinentes
 author: '@atc_project'
 creation_date: 08.04.2020
-stage: Préparation
+stage: preparation
 workflow: | 
   Voici quelques cours de formation pertinents qui vous aideront dans les activités de réponse aux incidents :  
 

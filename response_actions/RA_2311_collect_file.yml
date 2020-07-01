@@ -4,7 +4,7 @@ description: >
   Collect a specific file from a (remote) host or a system
 author: your name/nickname/twitter
 creation_date: DD.MM.YYYY
-stage: Identification
+stage: identification
 references:
   - https://example.com
 requirements:

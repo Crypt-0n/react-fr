@@ -3,7 +3,7 @@ id: RA2204
 description: Make sure that an email message is a phishing attack
 author: '@atc_project'
 creation_date: 31.01.2019
-stage: Identification
+stage: identification
 references:
   - https://en.wikipedia.org/wiki/Phishing
   - http://www.phishing.org/phishing-examples

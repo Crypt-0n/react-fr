@@ -4,7 +4,7 @@ description: >
   List victims of a security alert
 author: name/nickname/twitter
 creation_date: DD.MM.YYYY
-stage: Identification
+stage: identification
 automation:
   - thehive
 references: 

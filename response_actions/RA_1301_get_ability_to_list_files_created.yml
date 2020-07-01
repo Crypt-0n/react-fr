@@ -4,7 +4,7 @@ description: >
   Make sure you have the ability to list files that have been created at a particular time in the past
 author: your name/nickname/twitter
 creation_date: DD.MM.YYYY
-stage: Préparation
+stage: preparation
 references:
   - https://example.com
 requirements:

@@ -4,7 +4,7 @@ description: >
   Make sure you have the ability to find the data that is being transferred at the moment or at a particular time in the past by its content pattern
 author: your name/nickname/twitter
 creation_date: DD.MM.YYYY
-stage: Préparation
+stage: preparation
 references:
   - https://example.com
 requirements:

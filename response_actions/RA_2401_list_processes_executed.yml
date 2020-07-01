@@ -4,7 +4,7 @@ description: >
   List processes being executed at the moment or at a particular time in the past
 author: name/nickname/twitter
 creation_date: DD.MM.YYYY
-stage: Identification
+stage: identification
 automation:
   - thehive
 references: 

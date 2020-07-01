@@ -4,7 +4,7 @@ description: >
   List hosts connected to the internal network at the moment or at a particular time in the past
 author: your name/nickname/twitter
 creation_date: DD.MM.YYYY
-stage: Identification
+stage: identification
 automation:
   - thehive/phantom/demisto/etc
 references:

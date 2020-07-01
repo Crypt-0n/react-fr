@@ -3,7 +3,7 @@ id: RA6001
 description: Develop the incident report
 author: '@atc_project'
 creation_date: 31.01.2019
-stage: Retour_d'expérience
+stage: lessons_learned
 references: 
   - https://attack.mitre.org/tactics/enterprise/
   - https://en.wikipedia.org/wiki/Kill_chain
