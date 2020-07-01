@@ -5,7 +5,7 @@
 | **Auteur**                  | your name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
 | **Catégorie**                | Configuration      |
-| **Étapes**                   || 
+| **Étapes**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 
 ### Workflow

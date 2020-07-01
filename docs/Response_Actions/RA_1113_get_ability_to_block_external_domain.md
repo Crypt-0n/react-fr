@@ -5,7 +5,7 @@
 | **Auteur**                  | @atc_project        |
 | **Creation Date**           | 06.05.2020 |
 | **Catégorie**                | Network      |
-| **Étapes**                   || 
+| **Étapes**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
 | **References** |<ul><li>[https://en.wikipedia.org/wiki/DNS_sinkhole](https://en.wikipedia.org/wiki/DNS_sinkhole)</li></ul>|
 | **Requirements** |<ul><li>MS_border_proxy</li><li>MS_border_ips</li><li>MS_border_ngfw</li><li>MS_dns_server</li></ul>|
 

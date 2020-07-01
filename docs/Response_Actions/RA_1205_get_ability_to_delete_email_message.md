@@ -5,7 +5,7 @@
 | **Auteur**                  | @atc_project        |
 | **Creation Date**           | 07.05.2020 |
 | **Catégorie**                | Email      |
-| **Étapes**                   || 
+| **Étapes**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
 | **References** |<ul><li>[https://docs.microsoft.com/en-us/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization?view=o365-worldwide](https://docs.microsoft.com/en-us/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization?view=o365-worldwide)</li><li>[https://support.google.com/a/answer/7581662?hl=en](https://support.google.com/a/answer/7581662?hl=en)</li></ul>|
 | **Requirements** |<ul><li>MS_email_server</li></ul>|
 

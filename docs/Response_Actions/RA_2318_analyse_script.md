@@ -5,7 +5,7 @@
 | **Auteur**                  | your name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
 | **Catégorie**                | File      |
-| **Étapes**                   || 
+| **Étapes**                   |[RS0002: Identification](../Response_Stages/RS0002.md)| 
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 
 ### Workflow

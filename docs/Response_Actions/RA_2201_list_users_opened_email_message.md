@@ -5,7 +5,7 @@
 | **Auteur**                  | @atc_project        |
 | **Creation Date**           | 06.05.2020 |
 | **Catégorie**                | Email      |
-| **Étapes**                   || 
+| **Étapes**                   |[RS0002: Identification](../Response_Stages/RS0002.md)| 
 | **References** |<ul><li>[https://practical365.com/exchange-server/tracking-read-email-messages-exchange-server/](https://practical365.com/exchange-server/tracking-read-email-messages-exchange-server/)</li></ul>|
 | **Requirements** |<ul><li>MS_email_server</li></ul>|
 
