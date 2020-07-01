@@ -17,7 +17,7 @@ stix_mem = MemoryStore()
     ( 'external_references', properties.ObjectReferenceProperty())] )
 class ReactStage(object):
     def __init__(self, name=None, **kwargs):
-        list_of_stages = ['Preparation','Identification','Containment','Eradication','Recovery','Lessons Learned']
+        list_of_stages = ['Préparation','Identification','Endiguement','Éradication','Recouvrement','Retour d\'expérience']
         if name and name not in list_of_stages:
             raise ValueError("'%s' is not a recognized stage of RE&CT." % name)
 
@@ -52,12 +52,12 @@ for i in range(1,7):
 
 
 # define stages order
-preparation = ReactStage(name="Preparation", external_references=external_references[0], description="description", x_react_shortname="preparation", allow_custom=True )
+preparation = ReactStage(name="Préparation", external_references=external_references[0], description="description", x_react_shortname="preparation", allow_custom=True )
 identification = ReactStage(name="Identification", external_references=external_references[1], description="description", x_react_shortname="identification" , allow_custom=True )
-containment = ReactStage(name="Containment", external_references=external_references[2], description="description", x_react_shortname="containment" , allow_custom=True )
-eradication = ReactStage(name="Eradication", external_references=external_references[3], description="description", x_react_shortname="eradication" , allow_custom=True )
-recovery = ReactStage(name="Recovery", external_references=external_references[4], description="description", x_react_shortname="recovery" , allow_custom=True )
-lessons_learned = ReactStage(name="Lessons Learned", external_references=external_references[5], description="description", x_react_shortname="lessons-learned" , allow_custom=True )
+containment = ReactStage(name="Endiguement", external_references=external_references[2], description="description", x_react_shortname="containment" , allow_custom=True )
+eradication = ReactStage(name="Éradication", external_references=external_references[3], description="description", x_react_shortname="eradication" , allow_custom=True )
+recovery = ReactStage(name="Recouvrement", external_references=external_references[4], description="description", x_react_shortname="recovery" , allow_custom=True )
+lessons_learned = ReactStage(name="Retour d'expérience", external_references=external_references[5], description="description", x_react_shortname="lessons-learned" , allow_custom=True )
 
 tactic_refs = []
 

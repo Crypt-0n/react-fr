@@ -460,12 +460,12 @@ class REACTutils:
         """
 
         stages = {
-          "preparation": "Preparation",
+          "preparation": "Préparation",
           "identification": "Identification",
-          "containment": "Containment",
-          "eradication": "Eradication",
-          "recovery": "Recovery",
-          "lessons_learned": "Lessons Learned"
+          "containment": "Endiguement",
+          "eradication": "Éradication",
+          "recovery": "Recouvrement",
+          "lessons_learned": "Retour d'expérience"
         }
 
         for stage_name, normal_stage_name in stages.items():
