@@ -4,7 +4,7 @@ description: >
   Reinstall host OS from a golden image
 author: name/nickname/twitter
 creation_date: DD.MM.YYYY
-stage: recovery
+stage: Recouvrement
 automation:
   - thehive
 references: 

@@ -5,7 +5,7 @@
 | **Auteur**                  | @atc_project        |
 | **Creation Date**           | 06.05.2020 |
 | **Catégorie**                | Network      |
-| **Étapes**                   |[RS0002: Identification](../Response_Stages/RS0002.md)| 
+| **Étapes**                   || 
 | **Requirements** |<ul><li>DN_network_flow_log</li><li>DN_zeek_conn_log</li></ul>|
 
 ### Workflow

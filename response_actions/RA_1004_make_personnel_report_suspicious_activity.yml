@@ -4,7 +4,7 @@ description: >
   Assurez-vous que le personnel signalera une activité suspecte, c'est-à-dire des e-mails suspects, des liens, des fichiers, des activités sur leurs ordinateurs, etc.
 author: '@atc_project'
 creation_date: 06.05.2020
-stage: preparation
+stage: Préparation
 workflow: |
   Développez un moyen simplifié et bien connu de l'entreprise de contacter l'équipe de réponse à incident en cas d'activité suspecte sur le système utilisateur.  
   Assurez-vous que le personnel en est conscient, qu'il peut et qu'il l'utilisera.  

@@ -7,7 +7,7 @@ description: >
   relatively low. You can refer to the existing Response Actions (Preparation stage) to develop the list
 author: your name/nickname/twitter
 creation_date: DD.MM.YYYY
-stage: preparation
+stage: Préparation
 automation:
   - thehive/phantom/demisto/etc
 references:

@@ -5,7 +5,7 @@
 | **Auteur**                  | @atc_project        |
 | **Creation Date**           | 06.05.2020 |
 | **Catégorie**                | Network      |
-| **Étapes**                   |[RS0005: Recovery](../Response_Stages/RS0005.md)| 
+| **Étapes**                   || 
 | **Requirements** |<ul><li>MS_border_firewall</li><li>MS_border_proxy</li><li>MS_border_ips</li><li>MS_border_ngfw</li><li>MS_intranet_firewall</li><li>MS_intranet_proxy</li><li>MS_intranet_ips</li><li>MS_intranet_ngfw</li><li>MS_host_firewall</li></ul>|
 
 ### Workflow

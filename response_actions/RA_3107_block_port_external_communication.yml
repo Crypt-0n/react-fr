@@ -4,7 +4,7 @@ description: >
   Block a network port for external communications
 author: '@atc_project'
 creation_date: 31.01.2019
-stage: containment
+stage: Endiguement
 requirements:
   - MS_border_firewall
   - MS_border_proxy

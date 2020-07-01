@@ -4,7 +4,7 @@ description: >
   List hosts communicated with an internal URL
 author: name/nickname/twitter
 creation_date: DD.MM.YYYY
-stage: identification
+stage: Identification
 automation:
   - thehive
 references:

@@ -4,7 +4,7 @@ description: >
   Analyse an User-Agent request header
 author: your name/nickname/twitter
 creation_date: DD.MM.YYYY
-stage: identification
+stage: Identification
 references:
   - https://example.com
 requirements:

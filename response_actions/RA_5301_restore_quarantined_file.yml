@@ -4,7 +4,7 @@ description: >
   Restore a quarantined file
 author: your name/nickname/twitter
 creation_date: DD.MM.YYYY
-stage: recovery
+stage: Recouvrement
 references:
   - https://example.com
 requirements:

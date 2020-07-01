@@ -4,7 +4,7 @@ description: >
   Make sure you have access to DHCP logs
 author: your name/nickname/twitter
 creation_date: DD.MM.YYYY
-stage: preparation
+stage: Préparation
 automation:
   - thehive/phantom/demisto/etc
 references:

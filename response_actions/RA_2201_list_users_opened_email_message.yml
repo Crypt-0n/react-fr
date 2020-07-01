@@ -4,7 +4,7 @@ description: >
   List users that have opened am email message
 author: '@atc_project'
 creation_date: 06.05.2020
-stage: identification
+stage: Identification
 references:
   - https://practical365.com/exchange-server/tracking-read-email-messages-exchange-server/
 requirements:

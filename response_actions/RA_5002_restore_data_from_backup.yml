@@ -4,7 +4,7 @@ description: >
   Restore data from a backup
 author: your name/nickname/twitter
 creation_date: DD.MM.YYYY
-stage: recovery
+stage: Recouvrement
 references:
   - https://example.com
 requirements:

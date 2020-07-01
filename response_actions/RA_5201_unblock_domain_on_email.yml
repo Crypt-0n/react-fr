@@ -4,7 +4,7 @@ description: >
   Unblock a domain on email
 author: '@atc_project'
 creation_date: 07.05.2020
-stage: recovery
+stage: Recouvrement
 references:
   - https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/configure-your-spam-filter-policies?view=o365-worldwide
 requirements:

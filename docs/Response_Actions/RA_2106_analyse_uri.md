@@ -5,7 +5,7 @@
 | **Auteur**                  | name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
 | **Catégorie**                | Network      |
-| **Étapes**                   |[RS0002: Identification](../Response_Stages/RS0002.md)| 
+| **Étapes**                   || 
 | **Automation** |<ul><li>thehive</li></ul>|
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 

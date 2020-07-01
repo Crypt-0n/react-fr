@@ -4,7 +4,7 @@ description: >
   Find a process that is being executed at the moment or at a particular time in the past by its executable hash
 author: your name/nickname/twitter
 creation_date: DD.MM.YYYY
-stage: identification
+stage: Identification
 references:
   - https://example.com
 requirements:

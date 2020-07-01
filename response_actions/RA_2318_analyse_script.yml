@@ -4,7 +4,7 @@ description: >
   Analyse a script file (i.e. Python, PowerShell, Bash scripts etc)
 author: your name/nickname/twitter
 creation_date: DD.MM.YYYY
-stage: identification
+stage: Identification
 references:
   - https://example.com
 linked_analytics:

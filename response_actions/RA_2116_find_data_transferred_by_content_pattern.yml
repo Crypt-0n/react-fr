@@ -4,7 +4,7 @@ description: >
   Find the data that is being transferred at the moment or at a particular time in the past by its content pattern (i.e. specific string, keyword, binary pattern etc)
 author: your name/nickname/twitter
 creation_date: DD.MM.YYYY
-stage: identification
+stage: Identification
 references:
   - https://example.com
 requirements:

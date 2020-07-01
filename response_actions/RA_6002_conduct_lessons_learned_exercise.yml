@@ -3,7 +3,7 @@ id: RA6002
 description: Conduct Lessons Learned exercise
 author: '@atc_project'
 creation_date: 31.01.2019
-stage: lessons_learned
+stage: Retour_d'expérience
 references: 
   - http://shop.oreilly.com/product/0636920043614.do
   - https://www.amazon.com/Incident-Response-Computer-Forensics-Third/dp/0071798684

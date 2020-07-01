@@ -4,7 +4,7 @@ description: >
   List services that have been created at a particular time in the past
 author: your name/nickname/twitter
 creation_date: DD.MM.YYYY
-stage: identification
+stage: Identification
 references:
   - https://example.com
 requirements:

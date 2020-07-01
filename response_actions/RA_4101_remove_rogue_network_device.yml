@@ -4,7 +4,7 @@ description: >
   Remove a rogue network device
 author: your name/nickname/twitter
 creation_date: DD.MM.YYYY
-stage: eradication
+stage: Éradication
 automation:
   - thehive/phantom/demisto/etc
 references:

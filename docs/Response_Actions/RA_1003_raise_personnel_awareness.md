@@ -5,7 +5,7 @@
 | **Auteur**                  | @atc_project, ported from @MITREattack        |
 | **Creation Date**           | 06.05.2020 |
 | **Catégorie**                | General      |
-| **Étapes**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
+| **Étapes**                   || 
 | **References** |<ul><li>[https://attack.mitre.org/mitigations/M1017/](https://attack.mitre.org/mitigations/M1017/)</li></ul>|
 
 ### Workflow

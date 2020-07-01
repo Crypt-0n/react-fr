@@ -4,7 +4,7 @@ description: >
   Block data transferring by its content pattern (i.e. specific string, keyword, binary pattern etc)
 author: your name/nickname/twitter
 creation_date: DD.MM.YYYY
-stage: containment
+stage: Endiguement
 references:
   - https://example.com
 requirements:

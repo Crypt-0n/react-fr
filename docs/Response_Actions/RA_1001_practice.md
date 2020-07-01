@@ -5,7 +5,7 @@
 | **Auteur**                  | @atc_project        |
 | **Creation Date**           | 08.04.2020 |
 | **Catégorie**                | General      |
-| **Étapes**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
+| **Étapes**                   || 
 
 ### Workflow
 

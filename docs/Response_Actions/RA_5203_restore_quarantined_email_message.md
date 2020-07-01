@@ -5,7 +5,7 @@
 | **Auteur**                  | @atc_project        |
 | **Creation Date**           | 06.05.2020 |
 | **Catégorie**                | Email      |
-| **Étapes**                   |[RS0005: Recovery](../Response_Stages/RS0005.md)| 
+| **Étapes**                   || 
 | **Requirements** |<ul><li>MS_email_server</li></ul>|
 
 ### Workflow

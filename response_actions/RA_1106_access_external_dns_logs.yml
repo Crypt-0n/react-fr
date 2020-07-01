@@ -4,7 +4,7 @@ description: >
   Make sure you have access to external communication DNS logs
 author: '@atc_project'
 creation_date: 06.05.2020
-stage: preparation
+stage: Préparation
 references:
   - https://github.com/gamelinux/passivedns
   - https://drive.google.com/drive/u/0/folders/0B5BuM3k0_mF3LXpnYVUtU091Vjg

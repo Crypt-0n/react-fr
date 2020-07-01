@@ -4,7 +4,7 @@ description: >
   List registry keys modified at a particular time in the past
 author: name/nickname/twitter
 creation_date: DD.MM.YYYY
-stage: identification
+stage: Identification
 automation:
   - thehive
 references: 
