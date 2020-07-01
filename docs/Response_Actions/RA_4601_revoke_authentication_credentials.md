@@ -5,7 +5,7 @@
 | **Auteur**                  | @atc_project        |
 | **Creation Date**           | 31.01.2019 |
 | **Catégorie**                | Identity      |
-| **Étapes**                   |[RS0004: Eradication](../Response_Stages/RS0004.md)| 
+| **Étapes**                   |[RS0004: Éradication](../Response_Stages/RS0004.md)| 
 | **References** |<ul><li>[https://adsecurity.org/?p=556](https://adsecurity.org/?p=556)</li><li>[https://adsecurity.org/?p=483](https://adsecurity.org/?p=483)</li></ul>|
 
 ### Workflow

@@ -5,7 +5,7 @@
 | **Auteur**                  | your name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
 | **Catégorie**                | File      |
-| **Étapes**                   |[RS0003: Containment](../Response_Stages/RS0003.md)| 
+| **Étapes**                   |[RS0003: Endiguement](../Response_Stages/RS0003.md)| 
 | **Automation** |<ul><li>thehive/phantom/demisto/etc</li></ul>|
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 

@@ -5,7 +5,7 @@
 | **Auteur**                  | name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
 | **Catégorie**                | General      |
-| **Étapes**                   |[RS0005: Recovery](../Response_Stages/RS0005.md)| 
+| **Étapes**                   |[RS0005: Recouvrement](../Response_Stages/RS0005.md)| 
 | **Automation** |<ul><li>thehive</li></ul>|
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 

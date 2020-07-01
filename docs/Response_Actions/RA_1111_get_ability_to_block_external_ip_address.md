@@ -5,7 +5,7 @@
 | **Auteur**                  | @atc_project        |
 | **Creation Date**           | 06.05.2020 |
 | **Catégorie**                | Network      |
-| **Étapes**                   |[RS0001: Preparation](../Response_Stages/RS0001.md)| 
+| **Étapes**                   |[RS0001: Préparation](../Response_Stages/RS0001.md)| 
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 | **Requirements** |<ul><li>MS_border_firewall</li><li>MS_border_proxy</li><li>MS_border_ips</li><li>MS_border_ngfw</li><li>MS_host_firewall</li></ul>|
 

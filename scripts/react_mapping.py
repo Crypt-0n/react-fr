@@ -213,10 +213,10 @@ ra_mapping = {
     "RA6002": "Effectuer un exercice sur les le\u00e7ons apprises"
 }
 rs_mapping = {
-    "RS0001": "Preparation",
+    "RS0001": "Pr\u00e9paration",
     "RS0002": "Identification",
-    "RS0003": "Containment",
-    "RS0004": "Eradication",
-    "RS0005": "Recovery",
-    "RS0006": "Lessons Learned"
+    "RS0003": "Endiguement",
+    "RS0004": "\u00c9radication",
+    "RS0005": "Recouvrement",
+    "RS0006": "Retour d'exp\u00e9rience"
 }

@@ -5,7 +5,7 @@
 | **Auteur**                  | your name/nickname/twitter        |
 | **Creation Date**           | DD.MM.YYYY |
 | **Catégorie**                | Network      |
-| **Étapes**                   |[RS0003: Containment](../Response_Stages/RS0003.md)| 
+| **Étapes**                   |[RS0003: Endiguement](../Response_Stages/RS0003.md)| 
 | **References** |<ul><li>[https://example.com](https://example.com)</li></ul>|
 | **Requirements** |<ul><li>DN_zeek_conn_log</li></ul>|
 
