@@ -161,7 +161,7 @@ ra_mapping = {
     "RA2507": "Lister les services supprim\u00e9s",
     "RA2508": "Analyser la cl\u00e9 de registre",
     "RA2601": "R\u00e9pertorier les utilisateurs authentifi\u00e9s",
-    "RA3001": "Patch vulnerability",
+    "RA3001": "Corriger la vuln\u00e9rabilit\u00e9",
     "RA3101": "Bloquer l'adresse IP externe",
     "RA3102": "Bloquer l'adresse IP interne",
     "RA3103": "Bloquer le domaine externe",

@@ -190,7 +190,7 @@ nav:
             - "RA2508: Analyser la clé de registre": ./Response_Actions/RA_2508_analyse_registry_key.md
             - "RA2601: Répertorier les utilisateurs authentifiés": ./Response_Actions/RA_2601_list_users_authenticated.md
         - Containment:
-            - "RA3001: Patch vulnerability": ./Response_Actions/RA_3001_patch_vulnerability.md
+            - "RA3001: Corriger la vulnérabilité": ./Response_Actions/RA_3001_patch_vulnerability.md
             - "RA3101: Bloquer l'adresse IP externe": ./Response_Actions/RA_3101_block_external_ip_address.md
             - "RA3102: Bloquer l'adresse IP interne": ./Response_Actions/RA_3102_block_internal_ip_address.md
             - "RA3103: Bloquer le domaine externe": ./Response_Actions/RA_3103_block_external_domain.md
