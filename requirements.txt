@@ -2,3 +2,5 @@ pyyaml
 jinja2
 mkdocs
 stix2
+mkdocs-awesome-pages-plugin
+mkdocs-exclude
